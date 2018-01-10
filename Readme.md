@@ -1,4 +1,5 @@
-<h1>Hello World!!</h1>
-This is a sample text. 
+# Hello World!!
+## This is a subheading. 
 
-###How does this work?
+It's very easy to make some words **bold** and other words *italic* with Markdown. 
+You can even [link to Google!](http://google.com)
