@@ -4,7 +4,7 @@
 
 This seemingly menial task took me about a week to complete, *intrigued why!?*
 
-I'll be sharing the journey of my attempts to try solve this and the twist and turns my code took during the 8 versions.
+I'll be sharing the journey of my attempts to try solve this and the twist and turns my code took during the 9 versions.
 
 Concluded by an excel sheet comprising of various time required to reverse various file sizes by all versions of the code.
 
@@ -340,9 +340,75 @@ fileread.close()
 print('Done!')
 print("---Execution time: {} seconds ---".format(time.time() - start_time))
 ```
-> # Execution Time Sheet for all the versions
+> ### Version v9
+> #### Logic: Reading from file in chunks of data.
 
-Versions|1MB|5MB|500MB|1GB|5GB
+The bottle-necks of the previous version are removed in this version. 
+
+The ```python subprocess.call('echo "{}" > {}'.format(part,curr_file_name),shell=True)``` command is very expensive to use, instead we are using ```python file.write('The Reversed part!')```.
+
+To reduce the total number of opearations, The size of each chunk is upgraded from 120Kb to 4Mb and the chunk files, which were removed in 10 iterations priorly, are now removed once every 100 iterations.
+
+```python
+import time,subprocess,os
+
+start_time=time.time()
+
+def chunks(file,size=4000000):
+    while True:
+        data=file.read(size)
+        if data:
+            yield data
+        else:
+            break
+
+def concat(file_array,i=0):
+    size_of_array=len(file_array)
+    while i < size_of_array:
+        file_list=' '.join(file_array[i:i+100])
+        command="cat 0.txt {} > tmp.txt".format(file_list)
+        subprocess.call(command,shell=True)
+        subprocess.call('mv tmp.txt 0.txt',shell=True)
+        i+=100
+    del file_array[:]
+    subprocess.call('rm -rf {}'.format(file_list),shell=True)
+    return
+         
+fileread=open('1gb.txt','r')
+
+curr_file_name="1.txt"
+curr_file_id=1
+file_array=[]
+
+for f in chunks(fileread):
+    file_array.insert(0,curr_file_name)
+    part=f[::-1]
+    file=open('{}'.format(curr_file_name),'w')
+    file.write(part)
+    file.close()
+    #subprocess.call('echo "{}" > {}'.format(part,curr_file_name),shell=True)
+    curr_file_id += 1
+    curr_file_name="{}.txt".format(curr_file_id)
+    if len(file_array)==100:
+        concat(file_array,0)
+    
+
+concat(file_array,0)    
+    
+fileread.close()
+
+print('Done!')
+print("---Execution time: {} seconds ---".format(time.time() - start_time))
+
+
+```
+Changing the three factors helped achieve a prolific growth in speed of execution.
+>"80% of the results are affected by 20% of causes."
+>                                       - Pareto principle.
+
+> # Execution Time Sheet for all the versions.
+
+Versions|1MB|50MB|500MB|1GB|5GB
 --------|---|---|-----|---|---
 1|0.0057 sec|1.2108 sec|86.269 sec|System Hangs and Crashes|----
 2|13.2834 sec|11.95 min|Not Viable to calculate|Not Viable to calculate|Not Viable to calculate
@@ -352,3 +418,4 @@ Versions|1MB|5MB|500MB|1GB|5GB
 6|0.1369 sec|5.7525 sec|55.7831 sec|10.2 min|51.3 min
 7|0.1187 sec|22.015 sec|36.58 min|Not Viable to calculate|Not Viable to calculate
 8|0.1297 sec|21.24 sec|35.55 min|----|----
+9|0.059 sec|0.71368 sec|29.78 sec|95.11 sec|----
