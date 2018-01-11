@@ -16,5 +16,4 @@ As Kanye West said:
 > We're living the future so
 > the present is our past.
 
-I think you should use an
-`<addr>` element here instead.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
