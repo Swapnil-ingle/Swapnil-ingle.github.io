@@ -340,3 +340,15 @@ fileread.close()
 print('Done!')
 print("---Execution time: {} seconds ---".format(time.time() - start_time))
 ```
+> # Execution Time Sheet for all the versions
+
+Versions|1MB|5MB|500MB|1GB|5GB
+--------|---|---|-----|---|---
+1|0.0057 sec|1.2108 sec|86.269 sec|System Hangs and Crashes|----
+2|13.2834 sec|11.95 min|Not Viable to calculate|Not Viable to calculate|Not Viable to calculate
+3|0.0476 sec|0.9631 sec|19.451 sec|----|----
+4|3.047 min|>5 min|----|----|----
+5|No Output|No Output|No Output|No Output|No Output
+6|0.1369 sec|5.7525 sec|55.7831 sec|10.2 min|51.3 min
+7|0.1187 sec|22.015 sec|36.58 min|Not Viable to calculate|Not Viable to calculate
+8|0.1297 sec|21.24 sec|35.55 min|----|----
