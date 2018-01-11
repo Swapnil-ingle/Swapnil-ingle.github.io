@@ -2,9 +2,9 @@
 
 > ## Subject - Take an input file and reverse its content.
 
-This seemingly menial task took me about about a week to complete, *intrigued why!?*
+This seemingly menial task took me about a week to complete, *intrigued why!?*
 
-I'll be sharing the journey of my attempts to try solve this and the twist and turns my code took during the 9 versions.
+I'll be sharing the journey of my attempts to try solve this and the twist and turns my code took during the 8 versions.
 
 Concluded by an excel sheet comprising of various time required to reverse various file sizes by all versions of the code.
 
