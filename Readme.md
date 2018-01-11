@@ -343,7 +343,7 @@ print("---Execution time: {} seconds ---".format(time.time() - start_time))
 > ### Version v9
 > #### Logic: Reading from file in chunks of data.
 
-The bottle-necks of the previous version are removed in this version. 
+The bottlenecks of the previous version are removed in this version. 
 
 The ```python subprocess.call('echo "{}" > {}'.format(part,curr_file_name),shell=True)``` command is very expensive to use, instead we are using ```python file.write('The Reversed part!')```.
 
