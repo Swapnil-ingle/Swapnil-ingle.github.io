@@ -55,7 +55,7 @@ As we cannot efficiently load a larger file into memory, at once, and perform wr
 
 Another approach has been experimented on in this particular version. I mean *if we want to reverse the file as whole why not read it from backwards?*.
 
-> ####Logic: Reading from backend.
+> #### Logic: Reading from backend.
 
 * Introduced to using seek() in python.
 * File Cursor Manupulation.
