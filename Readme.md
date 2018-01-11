@@ -287,7 +287,7 @@ Instead the concatenation should be happenning on the go. Also the used files sh
 > ### Version v8.0
 
 > #### Logic: Reading from file in chunks of data.
-**Added: 
+**Added:** 
 1. Removing files on the go.
 2. _Concat()_ function is called every 10 iteration, i.e; after every 10 files are generated.**
 
