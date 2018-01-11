@@ -133,7 +133,7 @@ In this version we are implementing the algorithm required to reverse the file w
 
 > #### Steps.
 
-1. read *i'th* line *'input.txt'* Overwrite the *'output.txt'* with the reversed line.
+1. read **i'th** line *'input.txt'* Overwrite the *'output.txt'* with the reversed line.
 2. read *'temp.txt'* Append the temp data to *'output.txt'*
 3. read *'output.txt'* Overwrite the *'temp.txt'* with *'output.txt'* data
 4. Repead until the compiler exausts of input lines from *'input.txt'*
