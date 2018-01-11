@@ -8,3 +8,8 @@ You can even [link to Google!](http://google.com)
 * Item 2
   * Item 2.1
    * Item 2.2
+1. Ordered Item 1
+2. Ordered Item 2
+**Images Now**
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
