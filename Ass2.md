@@ -1,21 +1,6 @@
 ---
 title: Assignment 2
 ---
-<!DOCtype = html>
-<html>  
-
-<link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
-
-<body>
-
-<nav order=inline>
- <ul list-style-type: none; margin: 0; padding: 0;>
-  <li><a href="https://swapnil-ingle.github.io">Home</a></li>
-  <li><a href="https://swapnil-ingle.github.io">Assignment 1</a></li>
-  <li><a href="https://swapnil-ingle.github.io/Ass2">Assignment 2</a></li>
-  <li><a href="about.asp">About</a></li>
-</ul>
-</nav>  
 
 # Assignment 2
 
@@ -71,5 +56,3 @@ I still needed to do something about the **MemoryError()** of dictionary as the 
 
 > ### Logic: Generic
 
-</body>
-</html>
