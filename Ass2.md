@@ -1,5 +1,5 @@
 ---
-title: This is the Title Bruh!!
+title: Assignment 2
 ---
 
 # This is Assignment 2
