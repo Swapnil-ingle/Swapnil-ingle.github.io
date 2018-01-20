@@ -1,6 +1,21 @@
 ---
 title: Assignment 2
 ---
+<!DOCtype = html>
+<html>  
+
+<link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
+
+<body>
+
+<nav order=inline>
+ <ul list-style-type: none; margin: 0; padding: 0;>
+  <li><a href="https://swapnil-ingle.github.io">Home</a></li>
+  <li><a href="https://swapnil-ingle.github.io">Assignment 1</a></li>
+  <li><a href="https://swapnil-ingle.github.io/Ass2">Assignment 2</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul>
+</nav>  
 
 # Assignment 2
 
@@ -37,7 +52,7 @@ This would be a generic approach germane to any programming language given. But 
 The problems with this approach are : 
 > 1. Can't Read big file as a whole into memory. 
 > 2. No thought given to the storage of the "words occurences".
-> 3. Given enough input file size the dictionary will run out of space giving **_MemoryError_**.
+> 3. Given enough input file size the dictionary will run out of space giving **_MemoryError()_**.
 > 4. Can't print out large size of outputs.
 
 > ### Approach 2.0
@@ -55,3 +70,6 @@ However the following problems still persisted,
 I still needed to do something about the **MemoryError()** of dictionary as the limited size of the dictionary was a liability and some alternative was needed.
 
 > ### Logic: Generic
+
+</body>
+</html>
