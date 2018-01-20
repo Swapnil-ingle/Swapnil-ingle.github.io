@@ -125,7 +125,7 @@ c.close()
 conn.close()
 print("***** Execution time : {} sec ******".format(time.time()-start))
 ```
-> #### Execution Flow
+> #### Execution Flow:
 
 1. Read a chunk from file.
 2. Split the chunk using **chunk.split(' ')** and saving it into a list.
