@@ -3,7 +3,7 @@
 
 # Concepts list. 
 
-Listed Below are the new concepts that I learned while completing the Assignments on www.swapnil-ingle.github.io
+Listed Below are the new concepts that I learned while completing the Assignments on [swapnil-ingle.github.io](https://swapnil-ingle.github.io)
 
 ## * Internal Working of seek:
 
