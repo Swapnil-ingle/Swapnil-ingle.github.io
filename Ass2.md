@@ -1,7 +1,7 @@
 ---
 title: Assignment 2
 ---
-# [Assignment One](https://swapnil-ingle.github.io)        [Assignment Two](https://swapnil-ingle.github.io/Ass2)
+# [Assignment One](https://swapnil-ingle.github.io)  ---     [Assignment Two](https://swapnil-ingle.github.io/Ass2)
 
 
 # Assignment 2
