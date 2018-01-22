@@ -1,4 +1,4 @@
-# Assignment One.
+# [Assignment One](https://swapnil-ingle.github.io)        [Assignment Two](https://swapnil-ingle.github.io/Ass2)
 
 > ## Subject - Take an input file and reverse its content.
 
