@@ -6,20 +6,20 @@
 
 This seemingly menial task took me about a week to complete, *intrigued why!?*
 
-I'll be sharing the journey of my attempts to try solve this and the twist and turns my code took during the 9 versions.
+I'll be sharing the journey of my attempts to try to solve this and the twist and turns my code took during the 9 versions.
 
 Concluded by an excel sheet comprising of various time required to reverse various file sizes by all versions of the code.
 
 > ### Version v1.0
 
-The naive first version I coded at the start of the assignment. This is a generic logic that anyone with a parochial mindset, if I may say so without being harsh, would imply in their coding practice right away without hesistance or second thought(Or if you're not reading the *notes and constraints* of the assignment).
+The naive first version I coded at the start of the assignment. This is a generic logic that anyone with a parochial mindset, if I may say so without being harsh, would imply in their coding practice right away without hesitance or second thought(Or if you're not reading the *notes and constraints* of the assignment).
 
-This version of program doesn't take being "memory efficient" into consideration also the system hanged, and sometimes crashed, which was my first clue during testing large files that this was not as much pragmatic approach as I thought it would be. 
+This version of the program doesn't take being "memory efficient" into consideration also the system hanged and sometimes crashed, which was my first clue during testing large files that this was not as much pragmatic approach as I thought it would be. 
 
 > #### Logic: Generic.
 
-* Reading directly from file as a whole string.
-* Writing that string to output file.
+* Reading directly from the file as a whole string.
+* Writing that string to an output file.
 
 ```python
 import time
@@ -47,27 +47,27 @@ print("---Execution time: {} seconds ---".format(time.time() - start_time))
 ```
 *This looked great initially.*
 
-Execution of files even upto 500Mb took less than 2 minutes. What it lacked was the logic for proper handling of large files.
+Execution of files even up to 500Mb took less than 2 minutes. What it lacked was the logic for proper handling of large files.
 
-As we cannot efficiently load a larger file into memory, at once, and perform write operation. 
+As we cannot efficiently load a larger file into memory, at once, and perform a write operation. 
 
-> *"There at approximately 1,000,000 lines in 50Mb of text file."*
+> *"There at approximately 1,000,000 lines in 50Mb of a text file."*
 
 > ### Version v2.0
 
-Another approach has been experimented on in this particular version. I mean *"if we want to reverse the file as whole why not read it from backwards?"*.
+Another approach has been experimented on in this particular version. I mean *"if we want to reverse the file as a whole why not read it from backward?"*.
 
 > #### Logic: Reading from backend.
 
 * Introduced to using seek() in python.
-* File Cursor Manupulation.
+* File Cursor Manipulation.
 * Passing size in read(size) method in python.
 
 ```python
 '''
 V2.0
 '''
-import time,os
+import time, os
 
 start_time=time.time()
 
@@ -125,13 +125,13 @@ This is a more memory efficient program as the **for() iterator** in python can 
 
 > ### Version v4.0
 
-In this version we are implementing the algorithm required to reverse the file while reading it from front. The Algorithm used to do this job is mentioned down below step by step.
+In this version, we are implementing the algorithm required to reverse the file while reading it from the front. The Algorithm used to do this job is mentioned down below step by step.
 
 > ## Algorithm.
 
 * *The fundamental blocks of the algorithm are the reversed lines that move from one file to another to ultimately get the whole program reversed.*
 * Three files are required *input.txt*, *temp.txt* and *output.txt*.
-* The logic is as we are traversing line by line from front to end. The  **_"freshly reversed line"_** should always be at the top of the stack of lines we are reversing; where comes the auxilary file temp as intermediate storage, that should be appended below the freshly reversed line.
+* The logic is as we are traversing line by line from front to end. The  **_" freshly reversed line"_** should always be at the top of the stack of lines we are reversing; where comes the auxiliary file temp as intermediate storage, that should be appended below the freshly reversed line.
 
 > #### Steps.
 
@@ -144,7 +144,7 @@ In this version we are implementing the algorithm required to reverse the file w
 > ### Logic: Using the algorithm to reverse.
 
 ```python
-import os,time
+import os, time
 
 start=time.time()
 fr = open('./Testfiles/1mb.txt','r')
@@ -181,7 +181,7 @@ The shortcomings of this program are there are too many operations being done wi
 * Used three files.
 
 ```python
-import time,subprocess
+import time, subprocess
 
 start_time=time.time()
 
@@ -207,7 +207,7 @@ We've used UNIX commands in python through subprocess module. Instead of looping
 * Used *tac* command to reverse read the file.
 
 ```python
-import time,subprocess
+import time, subprocess
 
 start_time=time.time()
 
@@ -234,13 +234,13 @@ Then by simply applying the logic of line by line reversing We've ultimately rev
 > #### Logic: Reading from file in chunks of data.
 
 > ##### Steps:
-> 1. Read from file in chunk.
+> 1. Read from a file in a chunk.
 > 2. Reverse each chunk.
-> 3. Make seperate file for chunk.
+> 3. Make a seperate file for each chunk.
 > 4. Reverse concatenate the files.
 
 ```python
-import time,subprocess,os
+import time, subprocess, os
 
 start_time=time.time()
 
@@ -282,21 +282,21 @@ print('Done!')
 print("---Execution time: %s seconds ---" % round(time.time() - start_time))
 ```
 The only shortcomings for this program are The buffer files; one used to save each chunk, are not deleted automatically.
-The concatenation is happenning at the end of the program only.
+The concatenation is happening at the end of the program only.
 
-Instead the concatenation should be happenning on the go. Also the used files should be deleted on the go(After concatenating).
+Instead, the concatenation should be happening on the go. Also, the used files should be deleted on the go(After concatenating).
 
 > ### Version v8.0
 
 > #### Logic: Reading from file in chunks of data.
 **Added:** 
 1. Removing files on the go.
-2. _Concat()_ function is called every 10 iteration, i.e; after every 10 files are generated.**
+2. _Concat()_ function is called every 10 iterations, i.e; after every 10 files are generated.**
 
 To remove the files on the go we've maintained a **_list_** of file names as files are generated and after every 10 files are generated. We make a call to *concat()* function where we also delete, after concatenating, the files generated using UNIX commands.
 
 ```python
-import time,subprocess,os
+import time, subprocess, os
 
 start_time=time.time()
 
@@ -349,10 +349,10 @@ The bottlenecks of the previous version are removed in this version.
 
 The ```python subprocess.call('echo "{}" > {}'.format(part,curr_file_name),shell=True)``` command is very expensive to use, instead we are using ```python file.write('The Reversed part!')```.
 
-To reduce the total number of opearations, The size of each chunk is upgraded from 120Kb to 4Mb and the chunk files, which were removed in 10 iterations priorly, are now removed once every 100 iterations.
+To reduce the total number of operations, The size of each chunk is upgraded from 120Kb to 4Mb and the chunk files, which were removed in 10 iterations priorly, are now removed once every 100 iterations.
 
 ```python
-import time,subprocess,os
+import time, subprocess, os
 
 start_time=time.time()
 
