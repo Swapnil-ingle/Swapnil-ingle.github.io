@@ -14,9 +14,9 @@ The default value of offset is 0.
 
 Whereas passing 1 as argument loads the fpointer to start of the file and passing 2 load it to the end of the file.
 
-## using the time() module in python
+## Using the time() module in python
 
-## using the system() module in python 
+## Using the system() module in python 
 
 ## Creating custom size .txt file in python
 
@@ -26,7 +26,7 @@ Whereas passing 1 as argument loads the fpointer to start of the file and passin
 
 ## Using For() Iterator on file object
 
-## subprocess module
+## Subprocess module
 
 ## UNIX commands: cat, tac, rm, mv
 
