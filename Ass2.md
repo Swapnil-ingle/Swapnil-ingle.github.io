@@ -8,7 +8,7 @@ title: Assignment 2
 
 > ## Subject - Take an input file and find the number of occurences of individual words.
 
-Say this is a String from the input file. "Apple is a healthy food but Soda is a Junk food." The expected output would be 
+Say this is a String from the input file. **"Apple is a healthy food but Soda is a Junk food."** The expected output would be 
 
 > * Apple : 1
 > * is : 2
