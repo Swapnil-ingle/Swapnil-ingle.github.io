@@ -5,7 +5,7 @@ title: Assignment 2
 
 # Assignment 2
 
-> ## Subject - Take an input file and find the number of occurences of individual words.
+> ## Subject - Take an input file and find the number of occurrences of individual words.
 
 Say this is a String from the input file. **"Apple is a healthy food but Soda is a Junk food."** The expected output would be 
 
@@ -23,7 +23,7 @@ Listed below is the summary of the approaches and overview of my thinking proces
 > ### Approach 1.0
 
 The First obvious approach would be to 
-1. Take a dictionary like data type(Hashmap).
+1. Take a dictionary-like data type(Hashmap).
 2. Read file char by char until a *Space* is found.
 3. Add newly found word into the data-type with value as *previous+1*.
 4. Repeat!
@@ -31,13 +31,13 @@ The First obvious approach would be to
 This would be a generic approach germane to any programming language given. But Talking about python specifically we can make some modification to the above approach. So my approach to the problem was,
 1. Take a dictionary.
 2. Read the file.
-3. Use **text.split(' ')** to split the string at spaces and save it into a list.
-4. **for** Travese the list while adding the current element to dictionary with value as *previous+1*.
+3. Use **text.split(' ')** to split the string into spaces and save it into a list.
+4. **for** Traverse the list while adding the current element to dictionary with value as *previous+1*.
 5. Repeat!
 
 The problems with this approach are : 
 > 1. Can't Read big file as a whole into memory. 
-> 2. No thought given to the storage of the "words occurences".
+> 2. No thought was given to the storage of the "words occurrences".
 > 3. Given enough input file size the dictionary will run out of space giving **_MemoryError()_**.
 > 4. Can't print out large size of outputs.
 
@@ -46,20 +46,20 @@ The problems with this approach are :
 Trivial errors with Approach 1.0 are removed in this one. 
 
 This Approach was all about,
-> 1. Reading from file in chunks.
+> 1. Reading from a file in chunks.
 > 2. Writing the dictionary into a file.
 
-It was obvious to read from the file in chunks also I decided to write the output into a file as printing out the *whole words and their occurence count* was not a viable option.  
+It was obvious to read from the file in chunks also I decided to write the output into a file as printing out the *whole words and their occurrence count* was not a viable option.  
 
 However the following problems still persisted,
 
-I still needed to do something about the **MemoryError()** of dictionary as the limited size of the dictionary was a liability and some alternative was needed.
+I still needed to do something about the **MemoryError()** of the dictionary as the limited size of the dictionary was a liability and some alternative was needed.
 
 > ### Approach 3.0
 
-To avoid the limited size of dictionary what I could do is to use the dictionary as a temporary storage and update the output, wherever it was stored, accordingly. Doing this in a file was not practical, as I'd have to check for each word in the file everytime it occurs in the dictionary and then update the value into file and overwriting into .txt file would also become an issue.
+To avoid the limited size of dictionary what I could do is to use the dictionary as a temporary storage and update the output, wherever it was stored, accordingly. Doing this in a file was not practical, as I'd have to check for each word in the file everytime it occurs in the dictionary and then update the value into a file and overwriting into a .txt file would also become an issue.
 
-So instead of using a normal text file as output we could use a .csv file or more perfectly we could use a database to write the output to. I've used sqlite3 module in python to do all the database operations.
+So instead of using a normal text file as output, we could use a .csv file or more perfectly we could use a database to write the output to. I've used sqlite3 module in python to do all the database operations.
 
 This was finally a decent approach that I decided to implement in code. 
 
@@ -132,9 +132,9 @@ print("***** Execution time : {} sec ******".format(time.time()-start))
 2. Split the chunk using **chunk.split(' ')** and saving it into a list.
 3. For loop on the size of list
     * Update Dictionary for each item.
-4. Make list of tuple of the dictionary to pass to **_Executemany()_**(Prepared Statement).  
+4. Make a list of tuple of the dictionary to pass to **_Executemany()_**(Prepared Statement).  
     * Update Database.
-5. Make the dictionary empty and ready for new chunk.
+5. Make the dictionary empty and ready for a new chunk.
 6. Repeat!
 
 We have used Prepared Statements to efficiently execute multiple queries at a time. 
