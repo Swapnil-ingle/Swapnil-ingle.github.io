@@ -4,11 +4,11 @@
 
 Listed Below are the new concepts that I learned while completing the Assignments on www.swapnil-ingle.github.io
 
-## * Internal Working of seek:
+## * Internal Working of seek():
 Syntax: fileObject.seek(offset,Whence)
-The seek in python is similar to fseek in stdio.h. It is used to manupulate the current file pointer by the passed offset. The default value of offset is 0.
+The seek in python is similar to fseek in stdio.h. It is used to manipulate the current file pointer by the passed offset. The default value of the offset is 0.
 
-Whereas passing 1 as argument loads the fpointer to start of the file and passing 2 load it to the end of the file.
+Whereas passing 1 as argument loads the fpointer to start of the file and passing 2 loads it to the end of the file.
 
 ## * Using the time() module in python
 ## * Using the system() module in python
