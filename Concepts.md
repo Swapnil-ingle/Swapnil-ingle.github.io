@@ -11,7 +11,34 @@ The seek in python is similar to fseek in stdio.h. It is used to manipulate the 
 Whereas passing 1 as argument loads the fpointer to start of the file and passing 2 loads it to the end of the file.
 
 ## * Using the time() module in python
-## * Using the system() module in python
+
+The time module in python is used to get the current time from the operating system which can be used to know the execution time of program. **time.time()** is a funtion of this module that returns the current time, which can be saved into a variable at any point in the program. The starting time can be saved into a variable **start** and at the last line of the program we can save the end time into another variable **end**. Now subtracting start from end we get the total execution time of the program in seconds. 
+
+```python
+import time
+
+start=time.time()
+
+for i in range(1000):
+    print("Sample Printing.!")
+    
+end=time.time()    
+print("-----Execution time is {} secs-----".format(end-time))
+
+```
+
+## * Using the os() module in python
+
+The OS module in python is used for all the operating system calls also it is used extensively for file management in python.
+In my program to make a custom size .txt file I've used mostly the os module functions. 
+
+Sme of the cardinal funtions of os module, which I used,are listed below.
+
+> **os.getcwd()**
+
+
+
+
 ## * Creating custom size .txt file in python
 ## * Reversing using index slicing
 ## * Reading from file in chunks
