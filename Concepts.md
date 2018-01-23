@@ -146,12 +146,189 @@ We are including the whole string by leaving first two parameters void and readi
 
 ## * Reading from file in chunks
 
+To read from a file in chunks of data we can use a **generator** in python.
+
+### Generator.
+
+> Generators are used either by calling the next method on the generator object or using the generator object in a for loop. > In python, generator functions or just generators return generator objects. These generators are functions that contain   > the yield key word.
+
+In generic terms generators are functions that are used to manipulate the iterating behaviour of loop in python. Generators generate a sequence of terms but they don't return the value all at once, instead they **yield** one value at a time which is far more memory efficient.
+
+By using generators and by passing the **chunk_size** inside the file_object.read(_size_) method we can effectively read from a file in chunk after chunk style.
+
+Following is a small code snippet that helps to do so.
+
+```python
+def chunks(file,size=1024):
+    while True:
+        data=file.read(size)
+        if data:
+            yield data
+        else:
+            break
+            
+fileread=open('Input.txt','r')
+
+for f in chunks(fileread):
+        print(f)
+        print("Delimiter: *------------------*")
+        #Printing each chunk seperated by delimiter
+
+```
 
 ## * Using For() Iterator on file object
+
+As we can use for() iterator upon a generator we can also use the for iterator upon a file object. Doing so will result in reading of the file in a line by line way.
+
+Following is a code snippet that elaborates on how to do so.
+
+```python
+file_read=open('Input.txt','r')
+
+for line in file_read:
+        print(line)
+        print("Delimiter: *------------------*")
+        #Printing each line seperated by delimiter.
+```
+
 ## * Subprocess module
+
+We can use UNIX commands inside a python shell/IDLE, for such purposes we need to import the subprocess module that helps us to run UNIX commands cross-platforms, upon which they can be executed.
+
+Mainly there are two functions that are used to execute the UNIX commands which are passed as *strings* into the functions.
+
+**subprocess.call("Stringed UNIX command",Shell=True)**
+
+**subprocess.check_output("Stringed UNIX command",Shell=True)**
+
+*subprocess.call()* executes the UNIX commands while *subprocess.check_output()* returns the string output of the executed command which can be stored into variable and also be printed.
+
+```python
+import subprocess
+
+subprocess.call("echo 'This is UNIX print line' ",Shell=True)
+
+```
+
 ## * UNIX commands: cat, tac, rm, mv
+
+There are tonns of UNIX commands which can be used extensively to carry out our 'programming' errands, however the UNIX commands mentioned in the header are specific to file management field in UNIX. The description of the commands is mentioned below.
+
+1. cat
+
+> syntax: cat file0.txt file2.txt...fileN.txt > output.txt
+
+When we use the above syntax all the left side files are **overwritten** upon the right side file(output.txt)
+
+> syntax: cat file0.txt file1.txt .... fileN.txt >> output.txt
+
+However this syntax just appends the right side files upon the output.txt.
+
+2. tac
+
+> syntax: tac file.txt
+
+This returns a file where the order of the file lines are inverted. For example line1 becomes lineN, line2 becomes lineN-1... and so on.
+
+3. rm
+
+> syntax: rm file.txt
+
+Removes(Deletes) a file.
+
+> syntax: rm file1.txt file2.txt....fileN.txt
+
+Removes(Deletes) multiple files.
+
+4. mv
+
+> syntax: mv filename.txt NEWfilename.txt
+
+Renames a file.
+
 ## * Passing variables to subprocess call
+
+To pass a variable to subprocess call we can use string formatting as the command we are passing to the subprocess.call() method are nothing but strings. So we can use string formatting to pass various variables to the commands. There is more than one way to do this.
+
+We can use the 'C programming' native (%s as a placeholder) approach.
+
+Or the .format method in python with {} as placeholder to do our bidding as required.
+
+```python
+# Sample string format demo program
+
+
+for i in range(20):
+        print("This is line number {}!".format(i))
+
+```
 ## * Dynamically creating files
+
+To Dynamically create .txt file we can use string formatting(To dynamically change the file name) and opening them in 'Write' mode to create a new file each time.
+
+Also we have to maintain a *current_file_name* and a *current_file_id* which we have to change at the start of each iteration.
+
+A simple Demo program snippet to do this is mentioned below
+
+```python
+curr_file_name="1.txt"
+curr_file_id=1
+
+for i in range(10):
+        file=open(curr_file_name,'w')
+        curr_file_id+=1
+        curr_file_name="{}.txt".format(curr_file_id)
+
+```
+
 ## * Using Database in python with sqlite3 module
+
+We can use sqlite3 module in python to do all the database related operations. The steps to do so are mentioned below.
+
+1. import sqlite3
+2. connect the database
+        * conn=sqlite3.connect('DBname.db')
+3. Get a cursor of the current connection
+        * cur=conn.cursor()
+        * (This cursor would be required to make all the opration upon the Database)
+        * cursor.execute() is used to execute sql queries inside python.
+4. Use the cursor to fire queries from python into database.
+5. For Eg: cur.execute("INSERT INTO tableDemo VALUES('Swapnil',1)")
+
+A sample program with more operation is given below
+
+```python
+import sqlite3
+
+start=time.time()
+
+conn=sqlite3.connect('test.db')
+c=conn.cursor()
+
+def Show_entry(table_name):
+    for i in c.execute("SELECT * FROM {}".format(table_name)):
+        print(i)
+
+def Create_table(table_name):
+    c.execute('CREATE TABLE IF NOT EXISTS {}(Name TEXT UNIQUE, value INT)'.format(table_name))
+    c.execute("INSERT INTO Dict(Name,value) VALUES('computer',2),('this',1)")
+    conn.commit()
+    print('Table Created!')
+
+def Drop_table(table_name):
+    c.execute("DROP TABLE {}".format(table_name))
+    conn.commit()
+    print('Table Dropped!')
+
+Create_table('Demo')
+Show_entry('Demo')
+Drop_table('Demo')
+
+c.close()
+conn.close()
+```
+
 ## * Indexing in DBMS
+
+
 ## * Prepared Statements in DBMS
