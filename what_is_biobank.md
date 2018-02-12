@@ -6,7 +6,7 @@ Basically biobanks are this gargantuan repositories of samples retrieved from a 
 
 ## How biobanks works?
 
-Biobanks are used in many scenarios: For example a *_researcher_* has an idea to develop a cure for a disease, before he thinks about proceeding about the disease he will need two things that are of cardinal importance. 
+Biobanks are used in many scenarios: For example a _**researcher**_ has an idea to develop a cure for a disease, before he thinks about proceeding about the disease he will need two things that are of cardinal importance. 
 1. Number of people with the ailment germane to his research.(**Experimental group**)
 2. _**Sample**_ of the cohort people without any ailment. (**Control group**)
 
