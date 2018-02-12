@@ -4,7 +4,7 @@
 
 Basically biobanks are this gargantuan repositories of samples retrieved from a wide array of people. Biobanks may comprise of various niches in the collections of the samples which are relevant to the idea for which they were collected such as some brain cell project research specimen collections, stem cell research collection,etc,etc. 
 
-## How biobanks works?
+## How biobanks work?
 
 Biobanks are used in many scenarios: For example a _**researcher**_ has an idea to develop a cure for a disease, before he thinks about proceeding about the disease he will need two things that are of cardinal importance. 
 1. Number of people with the ailment germane to his research.(**Experimental group**)
