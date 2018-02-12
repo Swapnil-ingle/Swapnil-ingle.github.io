@@ -1,3 +1,5 @@
+### [Assignment One](https://swapnil-ingle.github.io)  ---     [Assignment Two](https://swapnil-ingle.github.io/Ass2) --- [Concepts List](https://swapnil-ingle.github.io/Concepts) --- [What is Biobank](https://swapnil-ingle.github.io/what_is_biobank)
+
 ## What is a Biobank.
 
 Basically biobanks are this gargantuan repositories of samples retrieved from a wide array of people. Biobanks may comprise of various niches in the collections of the samples which are relevant to the idea for which they were collected such as some brain cell project research specimen collections, stem cell research collection,etc,etc. 
@@ -6,11 +8,11 @@ Basically biobanks are this gargantuan repositories of samples retrieved from a 
 
 Biobanks are used in many scenarios: For example a *_researcher_* has an idea to develop a cure for a disease, before he thinks about proceeding about the disease he will need two things that are of cardinal importance. 
 1. Number of people with the ailment germane to his research.(**Experimental group**)
-2. Sample of the cohort people without any ailment. (**Control group**)
+2. _**Sample**_ of the cohort people without any ailment. (**Control group**)
 
-> 2. Sample of the cohort people without any ailment. (Control group)
+> 2. _**Sample**_ of the cohort people without any ailment. (Control group)
 
-> * Without biobanks this step would have taken months, if not year, but with biobank the researcher can just ask for specific number of samples that are relevant to his research needs.
+> * Without biobanks this step would have taken months, if not year, but with biobank the researcher can just ask for specific number of _**samples**_ that are relevant to his research needs.
 
 ## Samples:
 Typically samples are collections of blood, tissues, saliva, urine, etc that are retrieved from the patient/subject.(Like for example in UK biobank 500,000 altruistic people volunteered for providing their sample specimen for the betterment of the research and medicines).
