@@ -27,11 +27,11 @@ Biobanks, in research perspective, helps researcher to understand how different 
 
 ### Important keywords:
 
-**Aliquots**: An individual sample/specimen extracted from a total amount of sample.
+* **Aliquots**: An individual sample/specimen extracted from a total amount of sample.
 
-**Cohorts**: A group of subject with common defining characteristics(For ex: “age group”).
+* **Cohorts**: A group of subject with common defining characteristics(For ex: “age group”).
 
-**Control Group**: Control group consist elements that are present as exact same characteristics as the experimental group (aside from the ailing factor).
+* **Control Group**: Control group consist elements that are present as exact same characteristics as the experimental group (aside from the ailing factor).
 
 **Questions:**
 
