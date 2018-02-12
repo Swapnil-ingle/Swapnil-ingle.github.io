@@ -35,15 +35,15 @@ Biobanks, in research perspective, helps researcher to understand how different 
 
 **Questions:**
 
-**What is a freezer?**
+* **What is a freezer?**
 
 A freezer is a huge archive that is used to store all the specimens. As these specimens are highly susceptible to contamination the freezer is inert([Cryopreservation](https://en.wikipedia.org/wiki/Cryopreservation) is used) so as to avoid any cross contamination between the specimens, general temperature of the freezer is kept at -80 so as to preserve the specimens for a long term use.   
 
-**What is the typical contents of a freezer?**
+* **What is the typical contents of a freezer?**
 
 A freezer is basically a preservative solution that can size from a refrigerator to a warehouse. Freezer internally is [cryogenically](https://en.wikipedia.org/wiki/Cryogenics) frozen to keep the specimens intact. Sophisticated and large scale freezers typically have a retrieving automation tool/machinery that retrieves the requested sample from the archive(So you don’t have to do this manually so this minimizes the direct human/external contact with the archive further safeguarding them against potential vulnerabilities). The physical samples of specimen ,i.e; blood,tissue,plasma etc are typically stored in containers in the freezer where each container contains the samples from one individual.  
 
-**What happens to the specimens that are collected?**
+* **What happens to the specimens that are collected?**
 
 The collected specimens are
 1. Stored in the freezer archive.
@@ -51,12 +51,12 @@ The collected specimens are
 3. Upon such requests these specimens are retrieved from the storage and made ready to be transported.
 4. These specimens are shipped to location. 
 
-**How is a specimen transported from one location to another?**
+* **How is a specimen transported from one location to another?**
 
 The specimens are retrieved from the freezer. The specimens are vulnerable while transportation so to ensure the safe passage for the specimens they are encased in a transportation-safe case. Cases that are made up of hard material with Cryopreservatives in them so as to keep the specimens in a freezed state for all of the shipping phase. So when the specimens arrive at their destination they’re in that state as if they’ve just got out of the freezer archive.
 
 
-**What are the different types of biobanking?**
+* **What are the different types of biobanking?**
 
 The different types of biobanks are
 1. Disease oriented
