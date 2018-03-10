@@ -6,6 +6,16 @@ Here I'll discuss the philosophy of git from my point of view (a relatively newb
 
 This will be enough for you to get kick-started with using git and wander into the depths into your own.
 
+## Installing.......
+
+Installing git on __*linux*__ is just about easy as anything:
+
+> sudo apt-get git
+
+## Create an account:
+
+Create an account on www.github.com
+
 ## What is git(hub)?
 
 Software were being developed before git right? 
@@ -16,7 +26,7 @@ git is a _**"version control system" that is not centralized**_ and to understan
 
 So you go to office the other day all charged up and motivated but now you have the following questions before you:
 
-1. Distribution.
+### 1. Distribution.
 
 How are you gonna distribute your very own code structure to all the developers?
 
@@ -34,11 +44,17 @@ To download a new *repository* the developers use the git *clone* command.
 
 > git clone ***Link of the Repository***
 
+Make sure you __*pull*__ from the repository(Branch_name) to get the latest changes to your local system.
+
+> git pull
+
+This will pull the changes to your current branch on your local repository.
+
 This downloads/clones the *Upstream Repoository* locally. A new folder is created into the current path of terminal this new folder will contain all the online data along with *.git* file that contains all the *sync* inforamtion.
 
 So the first problem is sovled using git.
 
-2.Simutaneous editing
+### 2. Simutaneous editing
 
 So now everybody has a local copy of the your project. Now each one of the developers need to work upon each module and somehow integrate it with everyone elses's module so every modification byu each dev should be combined by all moification of all dev and the final product should be stored upon the *master branch* as discussed earlier.
 
@@ -59,17 +75,18 @@ So the dev needs to make a new branch, the command for the same is:
 
 ### Notes:
 
-> This will only create a new branch on the local repository not *upstream* basically *pushing*, excuse the pun, anything *upside* has "three steps process" we'll discuss it later.
+> This will only create a new branch on the local repository not _**upstream**_. Basically _**pushing**_, excuse the pun, anything *upside* has "three steps process" we'll discuss it later.
 
-Basically what making a branch does is it copies all the data from msater to your branch (kinda like your own seperate folder where you can edit without any hesitance or worries about polluting the original code). So all the changes you do will be stored in your own branch/folder as long as your current branch is *your_branch* while *pushing the changes*.
+Basically what making a branch does is it copies all the data from msater to your branch (kinda like your own seperate sub-folder where you can edit without any hesitance or worries about polluting the original code). So all the changes you do will be stored in your own branch/sub-folder as long as your current branch is *your_branch* while *pushing the changes*.
+(NOTE: This subfolder is virtual and won't be present actually on your system but once __*pushed*__ would show as a sepearate branch upon UI in your folder on github.com)
 
-3. Done with changes locally.
+### 3. Done with changes locally.
 
 Now most of the devs are done with the changes locally and now they want to upload their changes to their upstream respective branch which would be later merge with the master once reviewed by you (Senior Software Architect). 
 
 Now here comes the showdown which is really the crux of the interaction between local and upstream repo.
 
-The *pushing* your changes *upstream* comprise of three steps process:
+The _**pushing**_ your changes _**upstream**_ comprise of three steps process:
 
   1. add - Adds to staging area.
   2. commit - commits the changes locally.
@@ -88,7 +105,7 @@ Before going for this trio make sure to check your branch *status* we can use gi
 >                 *File5* path
 >                 *NewFile* path
 
-See these are the changes that are _**not staged** for commit_ so to add these to staging area.
+See these are the changes that are _**not staged**_ for commit so to add these to staging area.
 
 > git add file_path_1 file_path_2 file_path_3 file_path_4 file_path_5 file_path_6 
 
@@ -98,12 +115,43 @@ Now it's time to **commit** (the commit will save the changes for the last push)
 
 > git commit -m "Any relevant message that will reflect your changes."
 
-4. After this you'll need to push your changes along with the branch.
+This will go to your commit logs from where you can keep track of the changes done to your application.
+
+> git log
+
+### 4. After this you'll need to push your changes along with the branch.
 
 > git push origin *branch_Name*
 
-## Installing.......
+Now the dev has successfully pushed his local repository to his branch. Now you (_**Senior Software Architect**_ \*wink\* \*wink\*) need to review this. After which this branch can be successfully _**merged**_ with _**master**_ branch.
 
-Insatlling git on linux is just about easy as anything.
+#### **6 Hours Later**
 
-# sudo apt-get git
+Congrats you've reviewed all the changes from all the developers now you tell each of them to merge their changes into the _**master**_ branch. This will update the __*master*__ branch in accordance with the *reviewed* branch.
+
+To merge __*your branch*__ with the __*master*__ branch 
+  * Go to __*master*__ branch.(*Command: git checkout master*)
+    * Gets your pointer to master branch.  
+    
+The command for the same is:
+
+> git merge *branch_NAME*
+
+This will merge the changes from *your_branch* to master branch.
+
+So there you have it properly managing 50 people team on your project using git.
+
+Some additional important commands for using git are:
+
+1. Operating into existing branch (Checkout some existing branch).
+
+> git checkout *existing_branch_NAME*
+
+2. Delete a branch:
+
+  * From local repository: git branch -D *branch_NAME*
+  * From upstream repository: git push origin --delete *branch_NAME*
+  
+#### That's all Folks!  
+
+Hope you got an intuition and a basic understanding to get started with git and github. 
