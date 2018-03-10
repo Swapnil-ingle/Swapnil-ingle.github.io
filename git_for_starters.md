@@ -1,3 +1,5 @@
+### [Assignment One](https://swapnil-ingle.github.io)  ---     [Assignment Two](https://swapnil-ingle.github.io/Ass2) --- [Concepts List](https://swapnil-ingle.github.io/Concepts) --- [What is Biobank](https://swapnil-ingle.github.io/what_is_biobank)
+
 # Intuition for Git : for starters.
 
 The main motivation for me to write this blog is how comlpex and convoluted the git tutorials are online. If you went right now and searched for "git tutorials linux" sure you will get hundreds of site leading you to the enlightment. Sure you will get the syntaxes that are used to operate over git. But the motivation behind git and its each command, atleast basic one, is hardly discussed or is discussed in a way too complicated way that is more than often a bouncer for the guy who's a newbie.
