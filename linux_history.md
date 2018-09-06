@@ -33,15 +33,15 @@ These "changes" are called a "patch", once submitted these patches are scrutiniz
 
 Lets summarize the details in a timeline factor:
 
-1969:	**The Beginning**	The history of UNIX starts back in 1969, when Ken Thompson, Dennis Ritchie and others started working on the "little-used PDP-7 in a corner" at Bell Labs and what was to become UNIX.
+1969:	**The Beginning** :	The history of UNIX starts back in 1969, when Ken Thompson, Dennis Ritchie and others started working on the "little-used PDP-7 in a corner" at Bell Labs and what was to become UNIX.
 
-1971:	**First Edition**	It had a assembler for a PDP-11/20, file system, fork(), roff and ed. It was used for text processing of patent documents.
+1971:	**First Edition**	: It had a assembler for a PDP-11/20, file system, fork(), roff and ed. It was used for text processing of patent documents.
 
-1973:	**Fourth Edition**	It was rewritten in C. This made it portable and changed the history of OS's.
+1973:	**Fourth Edition**	: It was rewritten in C. This made it portable and changed the history of OS's.
 
-1984:	**4.2BSD**	University of California at Berkeley releases 4.2BSD, includes TCP/IP, new signals and much more.
+1984:	**4.2BSD**	: University of California at Berkeley releases 4.2BSD, includes TCP/IP, new signals and much more.
 
-1991: **Commencing LINUX** UNIX System Laboratories (USL) becomes a company - majority-owned by AT&T. Linus Torvalds commences LINUX development. Solaris 1.0 debuts.
+1991: **Commencing LINUX** : UNIX System Laboratories (USL) becomes a company - majority-owned by AT&T. Linus Torvalds commences LINUX development. Solaris 1.0 debuts.
 
 Richard Stallmann wrote in forums on net.unix-wizards in 1983, declaring about the new "Free UNIX" project that he was working:
 
