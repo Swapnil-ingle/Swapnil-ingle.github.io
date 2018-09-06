@@ -63,7 +63,7 @@ since april, and is starting to get ready.
 Intrigued to read the original messages and discussion posted by Linus and Richard over the internet!?
 Google maintains a group of the original posts, go right ahead, check it out:
 
-1. Richard Stallman: https://groups.google.com/forum/#!msg/net.unix-wizards/8twfRPM79u0/1xlglzrWrU0J
-2. Linus Torvald: https://groups.google.com/forum/#!topic/comp.os.minix/dlNtH7RRrGA%5B1-25%5D
+1. Richard Stallman: [https://groups.google.com/forum/net.unix-wizards](https://groups.google.com/forum/#!msg/net.unix-wizards/8twfRPM79u0/1xlglzrWrU0J)
+2. Linus Torvald: [https://groups.google.com/forum/comp.os.minix](https://groups.google.com/forum/#!topic/comp.os.minix/dlNtH7RRrGA%5B1-25%5D)
 
 
