@@ -36,5 +36,5 @@ CentOS head developers are employed by RedHat Inc. which work on 'Red Hat openso
 
 ## Kali Linux
 
-Interested in hacking!? Kali Linux is a flavor distinctly useful for exploiting security. 
+Interested in hacking!? Kali Linux is a flavor distinctly useful for exploiting security vulnerabilities. 
 "Kali Linux is an open source project that is maintained and funded by Offensive Security, a provider of world-class information security training and penetration testing services." 
