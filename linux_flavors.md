@@ -15,7 +15,7 @@ Ubuntu, is one the many available linux's flavors, it is developed as a "General
 So, what's the story of Ubuntu? Why did it came to be? Windows just has updates can't that suffice to our cause? Why did we need "Flavors" in the first place?
 
 When Linux kernel was made by Linus another genius, Richard Stallmann, had worked on the other aspect that requires to fulfill the OS; the programs! These were developed for minix - an operating system based on UNIX (Godfather to LINUX).
-This OS was first targeted for cloud-hosting solutions, but as the product grew And ofcourse thanks to the notion of it being opensource, unlike Windows!, it expanded into different number of "distribution" expressing the ideas of different developers specializing in each niche of technology.
+This OS was first targeted for cloud-hosting solutions, but as the product grew and ofcourse thanks to the notion of it being opensource, unlike Windows!, it expanded into different number of "distribution" expressing the ideas of different developers specializing in each niche of technology.
 
 ## Ubuntu
 
