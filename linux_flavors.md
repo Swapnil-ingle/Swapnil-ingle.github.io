@@ -3,8 +3,7 @@
 ![alt text](https://swapnil-ingle.github.io/images/linux-flavors.png "Linux Flavors Banner")
 
 Linux, mostly confused by beginners as being an operating system, is the kernel, the heart of the operating system. 
-The array of tools, UI, shell and other parts that encapsulates the whole user experience is provided by different distributions
-by different firm. This whole package is called a distribution or flavor or distros, pick whatever you like!
+The array of tools, UI, shell and other parts that encapsulates the whole user experience is provided by different distributions by different people, like you and me! This whole package is called a *distribution* or *flavor* or *distros*, pick whatever you like!
 
 > As mentioned, a kernel is a necessary component of an operating system, the heart if you may! 
 > But it can’t achieve any tasks without programs (e.g., shell, library, compilers).
