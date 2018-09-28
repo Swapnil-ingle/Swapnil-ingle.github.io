@@ -22,13 +22,17 @@ This OS was first targeted for cloud-hosting solutions, but as the product grew 
 ## Ubuntu
 
 Ubuntu was created by Mark Shuttleworth and a developmental team in 2004 to bring the Linux operating system to all PC 
-users rather than just those administering servers.
+users rather than just those administering servers. Ubuntu is a general purpose desktop OS that requires minimum level of expertise to work upon, so if you're just a noob who's getting started or someone who don't require much functionalitites other than general purpose tools you might just give this a go!
 
 There is an elaborate system in place that guides the growth of ubuntu, this is owned by a company named 'Canonical'. There are technical team, councils, boards, etc.
+
+For more information about how Ubuntu is governed checkout [ubuntu about us page](https://www.ubuntu.com/about)
 
 ## Red Hat
 
 In 1993, a startup called Red Hat was founded by Bob Young and Marc Ewing. Red Hat combined all the opensource softwares into the distribution (Red Hat Linux 1.0). Now known as Red Hat Enterprise Linux (RHEL). The company RedHat Inc. oversees the growth of this operating system. They earn money primarily by providing Paid Professional Support.
+
+Meet the team that leads the RedHat distro [Redhat Team](https://www.redhat.com/en/about/company/leadership)
 
 ## CentOS and Fedora
 
@@ -38,5 +42,37 @@ CentOS head developers are employed by RedHat Inc. which work on 'Red Hat openso
 
 ## Kali Linux
 
-Interested in hacking!? Kali Linux is a flavor distinctly useful for exploiting security vulnerabilities. 
-"Kali Linux is an open source project that is maintained and funded by Offensive Security, a provider of world-class information security training and penetration testing services." 
+So, I see you a security guy. Interested in hacking or penetration testing!? Kali Linux is a flavor distinctly useful for exploiting security vulnerabilities. 
+"Kali Linux is an open source project that is maintained and funded by Offensive Security, a provider of world-class information security training and penetration testing services."
+
+[For more information about Kali](https://www.kali.org/about-us/)
+
+## Puppy Linux
+
+Puppy Linux was originally created by Barry Kauler in 2003, as a smaller, leaner version of Vector Linux.
+
+Puppy Linux is designed to be very small and lightweight OS that can run well on every old computer and computers with less RAM. The puppy ISO file is least of 161 MB, and Puppy Linux can be booted from that disc to a live environment. Puppy Linux can run on PCs with 256 MB of RAM still you would need 512 MB for  best user experience and puppy Linux can definitely help you to reclaim your old PC.
+
+The people who care-takes Puppy Linux distros are called are [Stewards of Puppy Linux](http://puppylinux.com/team.html)
+
+Currently the master steward for Puppy Linux is **Mick Amadio** who oversees the overall growth of this flavor.
+
+# Choosing your pick
+
+There is no "one for all, all for one" flavor, depending on what hardware you working on and depending on what your general objective or purpose is there will be some flavors out there that suited to your needs better than other. Based upon the information above and digging around a lil' bit, you can choose what flavor satiates your taste buds.
+
+You can find tonns of guides and how-to(s) and quizes and [tests](https://distrochooser.de/en) to help you choose a flavor that suits your best needs.
+
+## Explore and experiment 
+
+Considering how dynamic and extensive the linux distribution society is, you might not want to be restricted to only one distro. I'll say explore, have some fun, experiment with what different distros have to offer because this is how you'll get the first-hand idea of what suits you the best.
+
+> "Seek thy truth and thou shall find it!"      - Something I just made up
+
+**References:**
+
+1. https://www.lifewire.com/choose-best-linux-distro-for-needs-2201172
+
+2. https://distrochooser.de/en
+
+3. https://www.pcworld.com/article/204767/a_guide_to_todays_top_10_linux_distributions.html
