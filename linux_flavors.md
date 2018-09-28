@@ -1,6 +1,6 @@
 # Linux Flavors: Choose your pick
 
-! [alt text](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwit0bydutzdAhUEA3IKHUIBBFsQjRx6BAgBEAU&url=http%3A%2F%2Fwww.ifelsetech.com%2Ftasting-linux-flavors%2F&psig=AOvVaw0MDj-tVO9nk6Zofe7CuMg8&ust=1538181342558728 "Linux Flavors Banner")
+! [alt text](https://github.com/Swapnil-ingle/Swapnil-ingle.github.io/tree/master/images/linux-flavors.png "Linux Flavors Banner")
 
 Linux, mostly confused by beginners as being an operating system, is the kernel, the heart of the operating system. 
 The array of tools, UI, shell and other parts that encapsulates the whole user experience is provided by different distributions
