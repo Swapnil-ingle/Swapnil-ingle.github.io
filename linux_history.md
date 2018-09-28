@@ -5,9 +5,9 @@ title: Linux: Getting Acquainted
 
 # LINUX: Getting Acquainted
 
-> ## History
-
 Before understanding the LINUX and its history, lets take a look at what made it possible at the first place, the predecessors of LINUX.
+
+> ## Birth of Linux
 
 In early digital era all the operating systems that were made specifically for the hardware that they were going to be consumed upon and interaction between two machines was not possible. So, *Dennis Ritchie* and *Ken Thompson* of AT&T fame authored the UNIX system. First, it was written in Low level language (Assembly Language) until 1973, when it was rewritten in C (A language invented by Ritchie himself, how cool is that!).
 Later University of California, Berkeley combined various ‘then existing’ flavours of UNIX into one and added the very famed **vi editor** tool.
@@ -17,16 +17,21 @@ Later University of California, Berkeley combined various ‘then existing’ fl
 MIT later introduced ‘X Windows’ — the first windowing system for UNIX. At this point UNIX was profoundly commercialised. 
 But *Linus Torvald* and *Richard Stallman* made the free UNIX flavour LINUX that was handled and distributed under GNU general public license. The GNU mandates the developer and seller to make the source code public, which is ultimately the essence of LINUX.
 
+> ## The Open Source Revolution
+
+Distributing Linux under GNU general public license was a vital decision made by Linus and team, the notion of having helping hands all across the globes was about to change the subterrain of softwares.
 This activity of letting the world contribute to a cause is "Open Sourcing" and the projects involved are called "OpenSource Projects" and the softwares being "OpenSource softwares". 
 This raises a question, how would the project/team benefit if its free? Ofcourse, the development/maintainance of the project is not free. It requires some resources, resources like time, human efforts, machines, etc.
 
-There are many things that compensate opensource softwares like:
+There are many things that compensate the resource that were invested in an opensource softwares, compensations like:
 
 1. Some part of the software is private and you'll have to pay for the acquisition.
 2. Companies pay for gaint "opensource softwares foundations" maintainance. (Ex: companies like Red Hat, IBM, and Microsoft pay their employees to contribute to Linux development)
 3. Custom build plugin for customers can be source of funds.
 4. There are many market based on opensource softwares. Ex: Stock exchange is majorly powered by LINUX.
 5. The satisfaction in making the world a better place.
+
+> ## Keeping the giant alive
 
 LINUX is developed and maintained collaboratively across countries and continents, Developer all around the globe submit fixes, additional features, proposal of removal of any lines, etc to the project. 
 These "changes" are called a "patch", once submitted these patches are scrutinized by LINUX foundation internal review team which include personels like senior linux kernel developer, linux creator and foundation fellows.
