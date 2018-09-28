@@ -10,12 +10,13 @@ The array of tools, UI, shell and other parts that encapsulates the whole user e
 
 Though the heart remains true, the other aspect of the operating system varies from flavor to flavor and each type maybe suitable for each person while being a mystery for the other. These different flavors are honed to their application domain, providing solutions/applications that are specific to their field.
 
+## Why Flavors?
+
 Ubuntu, is one the many available linux's flavors, it is developed as a "General purpose OS" targeting the normal user to industry level usage.
 
 So, what's the story of Ubuntu? Why did it came to be? Windows just has updates can't that suffice to our cause? Why did we need "Flavors" in the first place?
 
-When Linux kernel was made by Linus another genius, Richard Stallmann, had worked on the other aspect that requires to fulfill the OS; the programs! These were developed for minix - an operating system based on UNIX (Godfather to LINUX).
-This OS was first targeted for cloud-hosting solutions, but as the product grew and ofcourse thanks to the notion of it being opensource, unlike Windows!, it expanded into different number of "distribution" expressing the ideas of different developers specializing in each niche of technology.
+When Linux kernel was made by Linus another genius, Richard Stallmann, had already worked on the other aspect that requires to fulfill the OS; the programs! These were developed for minix - an operating system based on UNIX (Godfather to LINUX). The collaboration of these two masterpieces - and many other compilers and tools - gave rise to the first Linux OS. This OS was first targeted for cloud-hosting solutions, but as the product grew and ofcourse thanks to the notion of it being opensource, unlike Windows!, it expanded into different number of "distribution" expressing the ideas of different developers specializing in each niche of technology.
 
 ## Ubuntu
 
