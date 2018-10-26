@@ -35,7 +35,7 @@ What's better than learning a new language? Learning two new languages. Now, tha
 
 <img src="https://media.giphy.com/media/CV61LRKyQf6P6/giphy.gif" width="400" height="250"/>
 
-Bazinga! I'm kidding again. Gosh I'm on fire today. 
+Bazinga! I'm kidding again. Gosh, I'm on fire today. 
 
 On a serious note though I'd just know a few more words of a language that I'd use, maybe, never. But, that is ok, because *the journey is fun too, that is important really.*
 
