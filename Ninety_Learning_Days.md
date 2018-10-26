@@ -4,7 +4,11 @@
 
 I am a fan of watching documentaries. New information intrigues me, one day I'm listening to Java podcasts the other day I'm learning *"Physics: How capillary action help flush the toilet"*. Its wierd. It does not matter to me what it may or may not add to my skill set. Can this be categorised as a hobby then, I wonder?
 
-Not so long ago, I was watching a documentary by Nat Geo "Tesla V/S Edison". The story goes like this, Nikola Tesla moves from Croatia to seeks job opportunity in America. While doing so, Tesla starts working for Edison at his lab. They are testing Edison's new light bulb prototypes. One scientist from the lab, breaks down conducting some 90'th experiment, seeing this Edison addresses the whole lab. One thing that I distinctly remember is the line **"Patience, Persistence, Perseverance"**.
+Not so long ago, I was watching a documentary by Nat Geo "Tesla V/S Edison". The story goes like this, Nikola Tesla moves from Croatia to seeks job opportunity in America. While doing so, Tesla starts working for Edison at his lab. They are testing Edison's new light bulb prototypes. 
+
+<img src="https://media.giphy.com/media/b9P3TSZvuWu8E/giphy.gif" width="400" height="250" />
+
+One scientist from the lab, breaks down conducting some 90'th experiment, seeing this Edison addresses the whole lab. One thing that I distinctly remember from the speech is the line **"Patience, Persistence, Perseverance"**.
 This nicely summarizes the spirit for this ninety days learning plan for me.
 
 > I've filled my plate with many things. DB book read, Unix Level 1 completion, Japanese and French too!
@@ -35,4 +39,4 @@ Bazinga! I'm kidding again. Gosh I'm on fire today.
 
 On a serious note though I'd just know a few more words of a language that I'd use, maybe, never. But, that is ok, because *the journey is fun too, that is important really.*
 
-Besides, who knows what the future beholds? Maybe I'll settle in Paris one day. Who knows where life will take us? Nobody can tell for sure what might come in handy. *You cannot connect the dots looking forward, am I right?* We just do our part, we do it right and we hope for the best. That is all from my side today.
+Besides, who knows what the future beholds? Maybe I'll settle in Paris one day. Who knows where life will take us? Nobody can tell for sure what might come in handy. *You cannot connect the dots looking forward, am I right?*  We just do our part, we do it right and we hope for the best. That is all from my side today.
