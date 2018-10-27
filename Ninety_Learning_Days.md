@@ -8,8 +8,8 @@ Not so long ago, I was watching a documentary by Nat Geo "Tesla V/S Edison". The
 
 <img src="https://media.giphy.com/media/b9P3TSZvuWu8E/giphy.gif" width="400" height="250" />
 
-One scientist from the lab, breaks down conducting some 90'th experiment, seeing this Edison addresses the whole lab. One thing that I distinctly remember from the speech is the line **"Patience, Persistence, Perseverance"**.
-This nicely summarizes the spirit for this ninety days learning plan for me.
+One scientist from the lab breaks down conducting some 90'th experiment. Seeing this, Edison addresses the whole lab. While the whole speech is awesome, one thing that I distinctly remember from the speech is the line **"Patience, Persistence, Perseverance"**.
+This nicely summarizes the spirit of the ninety days learning plan for me.
 
 > I've filled my plate with many things. DB book read, Unix Level 1 completion, Japanese and French too!
 
