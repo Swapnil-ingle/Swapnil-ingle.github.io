@@ -39,4 +39,4 @@ Bazinga! I'm kidding again. Gosh, I'm on fire today.
 
 On a serious note though I'd just know a few more words of a language that I'd use, maybe, never. But, that is ok, because *the journey is fun too, that is important really.*
 
-Besides, who knows what the future beholds? Maybe I'll settle in Paris one day. Who knows where life will take us? Nobody can tell for sure what might come in handy. *You cannot connect the dots looking forward, am I right?*  We just do our part, we do it right and we hope for the best. That is all from my side today.
+Besides, who knows what the future beholds? Maybe I'll settle in Paris one day. Who knows where life will take us? Nobody can tell for sure what might come in handy. *You cannot connect the dots looking forward, am I right?*  We just do our part, we do it right and we hope for the best.
