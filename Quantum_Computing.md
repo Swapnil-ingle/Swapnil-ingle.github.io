@@ -1,6 +1,6 @@
 # Quantum Computing
 
-<img src="https://swapnil-ingle.github.io/images/Screenshot%202018-11-17%20at%209.20.19%20AM.png" width="750" height="350" />
+<img src="https://swapnil-ingle.github.io/images/Screenshot%202018-11-17%20at%209.20.19%20AM.png" width="750" height="380" />
 
 ## Quantum.
 
