@@ -14,6 +14,7 @@ Feel free to explore.
 7. [An insight on Linux Flavors](https://swapnil-ingle.github.io/linux_flavors)
 8. [The Vikings](https://swapnil-ingle.github.io/The_Vikings)
 9. [Ninety days learning plan](https://swapnil-ingle.github.io/Ninety_Learning_Days)
+10. [Quamtun Computing](https://swapnil-ingle.github.io/Quantum_Computing)
 
 Comments, feedbacks and criticism are always welcome!
 ## **Email:** dr.swapnilingle@gmail.com
