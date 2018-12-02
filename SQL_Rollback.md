@@ -2,7 +2,7 @@
 
 Whenever we try to perform any statement in SQL it directly affects SQL rollback section. SQL statements such as Insert, Update or Delete when executed make a change in the relation. These changes has to be stored until the transaction lives; that is from **begin** to **commit**. When we say changes we mean the state of tuple before the particular operation was performed.
 
-### Why are the changes stored?
+### Why do we need rollbacks?
 
 This is a way to maintain the atomicity property of databases. Either full transaction should be showed in effect or none. Hence, if for some reason - may it be hardware failure, power outages or software issue - a transaction fails the half-done effect of the transaction has to be reverted. This should bring back the database in the state before the transaction actually happened. These temporary changes, called as logs, reside in the SQL rollback section as per the SQL standards however, although the gist is same the actual implementation of SQL rollback defers from vendor to vendor. MySQL has *Undo logs* and *Redo logs* which work the magic to maintain the consistency and atomicity of the database.
 
@@ -18,11 +18,13 @@ The undo log pages are each part of a chain of undo log pages which form an undo
 
 ```sql SELECT @@innodb_max_undo_log_size; ```
 
-We cannot set the innodb_max_undo_log_size < 10485760 [10 MB]
+**Note:** We cannot set the innodb_max_undo_log_size < 10485760 [10 MB]
 
 To change the number of segments and max undo log size:
 
 1. ```sql SET GLOBAL innodb_max_undo_log_size = <>; ```
 2. ```sql SET GLOBAL innodb_rollback_segments = <>; ```
 
+Default undo tablespaces are created in the location defined by the innodb_undo_directory variable. If the innodb_undo_directory variable is undefined, default undo tablespaces are created in the data directory. Default undo tablespace data files are named undo_001 and undo_002. The corresponding undo tablespace names defined in the data dictionary are innodb_undo_001 and innodb_undo_002.
 
+> "The initial size of an undo tablespace data file depends on the innodb_page_size value. For the default 16KB page size, the initial undo tablespace file size is 10MiB. For 4KB, 8KB, 32KB, and 64KB page sizes, the initial undo tablespace files sizes are 7MiB, 8MiB, 20MiB, and 40MiB, respectively."
