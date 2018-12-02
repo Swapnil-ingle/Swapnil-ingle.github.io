@@ -15,6 +15,7 @@ Feel free to explore.
 8. [The Vikings](https://swapnil-ingle.github.io/The_Vikings)
 9. [Ninety days learning plan](https://swapnil-ingle.github.io/Ninety_Learning_Days)
 10. [Quantum Computing](https://swapnil-ingle.github.io/Quantum_Computing)
+11. [SQL Rollback segments](https://swapnil-ingle.github.io/SQL_Rollback)
 
 Comments, feedbacks and criticism are always welcome!
 ## **Email:** dr.swapnilingle@gmail.com
