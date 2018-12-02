@@ -8,6 +8,8 @@ This is a way to maintain the atomicity property of databases. Either full trans
 
 > "An undo log is a collection of undo log records associated with a single transaction. An undo log record contains information about how to undo the latest change by a transaction to a clustered index record. If another transaction needs to see the original data as part of a consistent read operation, the unmodified data is retrieved from undo log records. Undo logs exist within undo log segments, which are contained within rollback segments. Rollback segments reside in the system tablespace, undo tablespaces, and in the temporary tablespace."
 
+### Undo logs physical allocation
+
 The undo log exists as pages allocated inside the InnoDB system tablespace (usually named ibdata1) and consumes its space there. What differentiates *Undo log* and *Redo log* is that Undo logs are built for rollback during the server is running while Redo log specialize on rollback during server crash. Such distinction of responsibility makes it possible for the Undo log to have a performance edge as it does not have to bother about crash perspective, and file based data-structure that the Redo log normally uses.
 
 InnoDB supports a maximum of 128 rollback segments. We can use the following query to see the number of rollback segments.
