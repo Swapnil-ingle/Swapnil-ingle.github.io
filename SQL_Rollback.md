@@ -12,7 +12,7 @@ This is a way to maintain the atomicity property of databases. Either full trans
 
 #### InnoDB keeps a copy of everything that is changed
 
-The key thing to know in InnoDB’s implementation of MVCC is that when a record is modified, the current (“old”) version of the data being modified is first stashed away as an “undo record” in an “undo log”. It’s called an undo log because it contains the information necessary to undo the change made by the user, reverting the record to its previous version.
+When a record is modified, the current (“old”) version of the data being modified is first stashed away as an “undo record” in an “undo log”. It’s called an undo log because it contains the information necessary to undo the change made by the user, reverting the record to its previous version.
 
 Every record contains a reference to its most recent undo record, called a rollback pointer or ROLL_PTR, and every undo record contains a reference to its previous undo record (except for an initial record insert, which can be undone by simply deleting the record), forming a chain of all previous versions of a record. 
 
