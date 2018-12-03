@@ -8,6 +8,18 @@ This is a way to maintain the atomicity property of databases. Either full trans
 
 > "An undo log is a collection of undo log records associated with a single transaction. An undo log record contains information about how to undo the latest change by a transaction to a clustered index record. If another transaction needs to see the original data as part of a consistent read operation, the unmodified data is retrieved from undo log records. Undo logs exist within undo log segments, which are contained within rollback segments. Rollback segments reside in the system tablespace, undo tablespaces, and in the temporary tablespace."
 
+### How does this operates?
+
+#### InnoDB keeps a copy of everything that is changed
+
+The key thing to know in InnoDB’s implementation of MVCC is that when a record is modified, the current (“old”) version of the data being modified is first stashed away as an “undo record” in an “undo log”. It’s called an undo log because it contains the information necessary to undo the change made by the user, reverting the record to its previous version.
+
+Every record contains a reference to its most recent undo record, called a rollback pointer or ROLL_PTR, and every undo record contains a reference to its previous undo record (except for an initial record insert, which can be undone by simply deleting the record), forming a chain of all previous versions of a record. 
+
+In this way, any previous version of a record can be easily constructed, as long as the the undo records (the “history”) still exist in the undo logs.
+
+
+
 ### Undo logs physical allocation
 
 The undo log exists as pages allocated inside the InnoDB system tablespace (usually named ibdata1) and consumes its space there. What differentiates *Undo log* and *Redo log* is that Undo logs are built for rollback during the server is running while Redo log specialize on rollback during server crash. Such distinction of responsibility makes it possible for the Undo log to have a performance edge as it does not have to bother about crash perspective, and file based data-structure that the Redo log normally uses.
