@@ -18,7 +18,7 @@ Every record contains a reference to its most recent undo record, called a rollb
 
 In this way, any previous version of a record can be easily constructed, as long as the the undo records (the “history”) still exist in the undo logs.
 
-
+![alt text](https://swapnil-ingle.github.io/images/sql-rollback-undo.png "SQL Rollback operates")
 
 ### Undo logs physical allocation
 
