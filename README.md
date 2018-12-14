@@ -16,6 +16,7 @@ Feel free to explore.
 9. [Ninety days learning plan](https://swapnil-ingle.github.io/Ninety_Learning_Days)
 10. [Quantum Computing](https://swapnil-ingle.github.io/Quantum_Computing)
 11. [SQL Rollback segments](https://swapnil-ingle.github.io/SQL_Rollback)
+12. [Elon Musk](https://swapnil-ingle.github.io/Elon-Musk)
 
 Comments, feedbacks and criticism are always welcome!
 ## **Email:** dr.swapnilingle@gmail.com
