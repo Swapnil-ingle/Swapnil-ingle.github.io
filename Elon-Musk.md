@@ -27,5 +27,24 @@ Rather than basking in the glory of newfound silicon millionaire, elon spent alm
 Elon believed in the vision, however, 
 > "Money is low bandwidth, it's just a number in a database". 
 
-He started reading about the industries and inspite of the challenges he made an online bank system. The company was called X.com, a rather counter-intuitive name. It was the first of the kind to introduce a money transfer option by pressing a button. This company then merged with its rival Confinetiy, which had a service named **PayPal**. Later, the merged company would come to know as PayPal.
+He started reading about the industries and inspite of the challenges he made an online bank system. The company was called X.com, a rather counter-intuitive name. It was the first of the kind to introduce a money transfer option by pressing a button. This company then merged with its rival Confinetiy, which had a service named **PayPal**. Later, the merged company would come to know as PayPal. 
+
+Musk was ousted in October 2000 from his role as CEO (although he remained on the board) due to disagreements with other company leadership, notably over his desire to move PayPal's Unix-based infrastructure to Microsoft Windows.
+
+PayPal was acquired by eBay for $1.5B and Musk having 11.7% of the shares recieved $165M. 
+
+## SpaceX
+
+In 2001, Musk conceptualized Mars Oasis, a project to land a miniature experimental greenhouse on Mars, containing food crops growing on Martian regolith, in an attempt to regain public interest in space exploration.
+
+Elon was a rocket enthusiast since childhood and looked forward to see humanity evolve as a multi-planetary species. Initially, the idea was to buy ICBMs(Intercontinental Ballistic Missiles) from Moscow,Russia and use them to send the payload to space. But Musk was treated as a novice and not taken seriously, he stormed out of a meeting once and on the way back to US made an elaborate excel sheet totalling the cost of the raw materials required for building rockets. It was 3% of the sales price of rocket at that time and decided he'd build the rockets himself.
+
+> "It was concluded that theoretically, by applying vertical integration and the modular approach from software engineering, SpaceX could cut launch price by a factor of ten and still enjoy a 70-percent gross margin."
+
+After initial will-breaking failures SpaceX was able to deliver exceptional feats like docking the Dragon capsule with ISS, launching a rocket and re-using the boosters to provide for future flights. These achievements were thought impossible by the space industries, well before they were not anymore.
+
+## Tesla
+
+Tesla was originally incorporated by Martin Eberhart and Marc Tarpenning, which Elon later funded leading the Series A round of investment in February 2004, joining Tesla's board of directors as its chairman. During the financial crisis of 2008 the company ousted out Eberdard and Musk assumed the CEO and product architect position. Musk lead the company through the financial crisis overviewing the developement of roadster.
+
 
