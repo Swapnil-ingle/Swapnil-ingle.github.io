@@ -9,7 +9,7 @@ Since childhood, Elon was a geeky boy who was always seen with a book in his han
 While in grade school Elon developed a trans-like state where he'd meditate upon any idea and not respond to anyone speaking to him, being totally unaware of their presence. This was a big deal as everyone thought Elon had an auditory malfunction and took him to doctor for treatment. Elon, while in reality, had found a way to isolate himself and thoughts from the world noise. Elon, at present, says 
 > "I still experience such state, though not as vividly, as there are many things nowadays that seek my attention"
 
-## The initial venture
+## The initial venture: Zip2
 
 Elon Musk started a company *Zip2* (initially named *GlobalLinks*) in 1995 with his brother Kimbal Musk, this was providing an online presence to the retailers around the block. 
 
@@ -20,7 +20,7 @@ The site would list out the nearest outlets and give turn-by-turn navigation to 
 
 Elon wanted to be the CEO, which the board rejected, and wanted to stare the company in the vision in which he started it. Nonetheless, Zip2 was acquired by Compaq in 2001 for $307 M and Elon made $22M dollars from his 7% shares.
 
-## Elon takes on banking
+## Elon takes on banking: PayPal
 
 Rather than basking in the glory of newfound silicon millionaire, elon spent almost all of his gains in his next grand venture. Elon, now wanted to make a virtual bank as this was the industry that had not been changed for the past 50 years. Elon, did not know a thing about the banking industry and there were a myriad of laws in place to prevent something like that from happening. 
 
