@@ -47,4 +47,10 @@ After initial will-breaking failures SpaceX was able to deliver exceptional feat
 
 Tesla was originally incorporated by Martin Eberhart and Marc Tarpenning, which Elon later funded leading the Series A round of investment in February 2004, joining Tesla's board of directors as its chairman. During the financial crisis of 2008 the company ousted out Eberdard and Musk assumed the CEO and product architect position. Musk lead the company through the financial crisis overviewing the developement of roadster.
 
+Arguably, Musk feels a genuine concern about oil being a major accessory in plethora of industries. He says, 
 
+> "On a daily basis, enough sunlight hits the Earth to power all the world for months, that is more than all the other resources combined"
+
+Musk has a drive for making sustainable clean-tech products. In 2014, Musk announced that Tesla would allow its technology patents to be used by anyone in good faith in a bid to entice automobile manufacturers to speed up development of electric cars. 
+
+> "The unfortunate reality is electric car programs (or programs for any vehicle that doesn't burn hydrocarbons) at the major manufacturers are small to non-existent, constituting an average of far less than 1% of their total vehicle sales,"
