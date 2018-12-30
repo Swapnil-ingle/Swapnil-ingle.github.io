@@ -17,6 +17,7 @@ Feel free to explore.
 10. [Quantum Computing](https://swapnil-ingle.github.io/Quantum_Computing)
 11. [SQL Rollback segments](https://swapnil-ingle.github.io/SQL_Rollback)
 12. [Elon Musk](https://swapnil-ingle.github.io/Elon-Musk)
+13. [SQL Explain plan](https://swapnil-ingle.github.io/SQL-Explain)
 
 Comments, feedbacks and criticism are always welcome!
 ## **Email:** dr.swapnilingle@gmail.com
