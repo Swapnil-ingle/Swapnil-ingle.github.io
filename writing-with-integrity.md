@@ -2,7 +2,7 @@
 ###### Lessons in being an elite writer
 
 
-This is a transcript from one of the lessons in a writing course I'm taking on Udemy. 
+This is a transcript from one of the lessons in a writing course on Udemy.
 
 Having had the same condition that is being discussed here, I'm writing this as a blog to share the message with fellow people. Hopefully, helping them see their own biases.
 
