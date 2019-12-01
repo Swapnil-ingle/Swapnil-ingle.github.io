@@ -18,6 +18,7 @@ Feel free to explore.
 11. [SQL Rollback segments](https://swapnil-ingle.github.io/SQL_Rollback)
 12. [Elon Musk](https://swapnil-ingle.github.io/Elon-Musk)
 13. [SQL Explain plan](https://swapnil-ingle.github.io/SQL-Explain)
+14. [Writing with integrity: Lessons in being an elite writer](https://swapnil-ingle.github.io/writing-with-integrity)
 
 Comments, feedbacks and criticism are always welcome!
 ## **Email:** dr.swapnilingle@gmail.com
