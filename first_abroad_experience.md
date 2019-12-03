@@ -20,7 +20,7 @@ It was the start of cold, the month of October. And it was indeed a chilly welco
 
 I was headed towards Basel, a small town at the base of the Alps mountain in Switzerland. Where I had remotely worked with the University of Basel, providing them with 'OpenSpecimen', a BioBank management software by Krishagni Pvt Ltd (Pune). I was here to meet the clients and collaborate with them on-site, training them in the software and resolving any related issues.
 
-The next thing I notice is everything is so much thought out and well structured there. The metro train doors were accompanied by some marking on the grounds that separated the departing crowd from the boarding crowd. The ticket vendor at the train station had a 5 feet of undisturbed space only after which the queue would start, and she'd ask for the next customer one-by-one. Everything was so delineated, and I was loving it.
+The next thing I notice is everything is so much thought out and well structured there. The metro train doors were accompanied by some marking on the grounds that separated the departing crowd from the boarding crowd. The ticket vendor at the train station had atleast 5 feet of undisturbed space only after which the queue would start, and she'd ask for the next customer one-by-one. Everything was so delineated, and I was loving it.
 
 I got the ticket to Basel and the train was leaving in 15 minutes. I hopped on. I see there are hardly 5 people in the entire coach. I wonder if this is a normal crowd or was it just the Saturday morning. Everything was super clean, I tell you, the white sole of my shoes were as spotless when I left after 15 days as they were when I arrived.
 
