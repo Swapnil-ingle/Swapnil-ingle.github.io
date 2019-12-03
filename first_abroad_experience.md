@@ -34,7 +34,7 @@ It's 7:30'ish in the morning, you can feel the cold breeze, and constrasting the
 
 _"IMG_LANDSCAPE_FROM_TRAIN"_
 
-I reach Basel after a 90 minutes ride and take a tram to check-in to my Airbnb hotel. It's weekend and I had decided to explore this neat little city.
+I reach Basel after a 90 minutes ride and took a tram to check-in to my Airbnb hotel. It's weekend and I had decided to explore this neat little city.
 
 Basel is a historic city and there is a lot to see. You can see the old buildings, gates, musuems and churches and a bridge and the city itself is a wanderlust experience. And the people here are ridiculously, NICE. I don't know whether it was just me or this is a "creative recollection" but overall people seem very happy, warm towards others and nice in-general.
 
