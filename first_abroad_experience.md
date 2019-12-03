@@ -18,7 +18,7 @@ You can count on a single hand the times I've had breakfast with a spoon-and-for
 
 It was the start of cold, the month of October. And it was indeed a chilly welcome for someone who shivers even in the Indian winters. It took me a day, or two, to adjust to the weather. The Zurich airport is huge with the railway station in the same building. I was roaming around deciphering the notation symbols, as everything was in German, trying to get to the baggage claim.
 
-I was headed towards Basel, a small town at the base of the Alps mountain in Switzerland. I was working with the University of Basel, providing them with 'OpenSpecimen', a BioBank management software by Krishagni Pvt Ltd (Pune), and I was here to meet the clients and collaborate with them on-site, training them in the software and resolving any related issues.
+I was headed towards Basel, a small town at the base of the Alps mountain in Switzerland. Where I had remotely worked with the University of Basel, providing them with 'OpenSpecimen', a BioBank management software by Krishagni Pvt Ltd (Pune). I was here to meet the clients and collaborate with them on-site, training them in the software and resolving any related issues.
 
 The next thing I notice is everything is so much thought out and well structured there. The metro train doors were accompanied by some marking on the grounds that separated the departing crowd from the boarding crowd. The ticket vendor at the train station had a 5 feet of undisturbed space only after which the queue would start, and she'd ask for the next customer one-by-one. Everything was so delineated, and I was loving it.
 
