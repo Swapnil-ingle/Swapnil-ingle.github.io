@@ -1,6 +1,6 @@
 ## The Take Off
 
-I reached the Mumbai international airport at 10:00 PM and scrambled my bag for passport as the security were asking the for tickets and identifications. I had only once traveled by a plane before, form Pune to Goa and that is a 40 min plane ride. Later I would find out international flights are nothing like that caricature of an experience I had before.
+I reached the Mumbai international airport at 10:00 PM and scrambled my bag for passport as the security were asking the for tickets and identifications. I had only once traveled by a plane before, from Pune to Goa and that is a 40 min plane ride. Later I would find out international flights are nothing like that caricature of an experience I had before.
 
 I was all equiped with the necessary documents that I was suppose to have. So I clear the airport gate security and enter the airport premises. The first I notice is the stark constrast in the landscape from Chembur and Vashi to that of the Airport. The airport's architechture is beautiful with giant ornate pillars holding the vast canopy of the roof which follows into the same design of the pillars.
 
