@@ -12,7 +12,7 @@ This was the first time I was on an international airport terminal with no idea 
 ## The Arrival
 
 
-This was a 10 hour over-night flight from Mumbai to Zurich airport. I dozed off soon after the flight took off, being exausted from the preparation, packing, and the high-traffic Mumbai commute. I was woken up by the Air Hostess the later morning for breakfast, the flight was 1 and half hours to land. I opted for the non-vegeterian breakfast and was not too delited with the experience. There was the packed breakfast and I had given a fork and spoon to have at it, and the struggle began.
+This was a 10 hour over-night flight from Mumbai to Zurich airport. I dozed off soon after the flight took off, being exausted from the preparation, packing, and the high-traffic Mumbai commute. I was woken up by the Air Hostess the later morning for breakfast, the flight was 1 and half hours to land. I opted for the non-vegeterian breakfast and was not too delited with the experience. There was the packed breakfast before me and I had given a fork and spoon to have at it, and thus the struggle began.
 
 You can count on a single hand the times I've had breakfast with a spoon-and-fork, this experience bring that total count to 1. Anyways, I had a long journey ahead and got the meal in my belly by the means available. I reached the Zurich airport by 6:30 AM (Local time) and the cabin crew greeted me off as I departed the vessel. 
 
