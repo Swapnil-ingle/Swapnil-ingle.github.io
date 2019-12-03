@@ -40,7 +40,7 @@ Basel is a historic city and there is a lot to see. You can see the old building
 
 I loved the city and in particular the musuems. I'm a museum fanatic and they happen to have multiple of them here. So, the first thing I do is visit the "Musuem Of Natural History". This museum has large number of specimens ranging from the ancient tropical predatory cats (skeloton of a sabertooth cat) to the excotic createrues from the depth of the sea (Nautilus fossils and shells). 
 
-I was blown-away by the life-sized recreation models of the animals.
+I was blown away by the life-sized recreation models of the animals.
 
 _"IMG_MUSEUM_ANIMAL"_
 
