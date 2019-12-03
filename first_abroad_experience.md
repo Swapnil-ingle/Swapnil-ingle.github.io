@@ -26,7 +26,7 @@ I got the ticket to Basel and the train was leaving in 15 minutes. I hopped on. 
 
 The train left Zurich station and, in a while, left the city. And soon after, I witnessed the lush green landscapes that Switzerland is known for. It was a mesmerizing site. 
 
-It's 7:30'ish in the morning, you can feel the cold breeze, constrasting the cold are the pale-golden sunrays that are permeating through the fog, it's autumn and the long pointy trees have become orange to reddish, the distant hilltops standing against the morning sun. It is a feeling that I will take with me, a picture I cannot forget.
+It's 7:30'ish in the morning, you can feel the cold breeze, and constrasting the cold are the pale-golden sunrays that are permeating through the fog, it's autumn and the long pointy trees have become orange to reddish, the distant hilltops standing against the morning sun. It is a feeling that I will take with me, a picture I cannot forget.
 
 <IMAGE>
 
