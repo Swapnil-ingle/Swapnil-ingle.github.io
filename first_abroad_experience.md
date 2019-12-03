@@ -4,7 +4,7 @@ I reached the Mumbai international airport at 10:00 PM and scrambled my bag for 
 
 I was all equiped with the necessary documents that I was suppose to have. So I clear the airport gate security and enter the airport premises. The first I notice is the stark constrast in the landscape from Chembur and Vashi to that of the Airport. The airport's architechture is beautiful with giant ornate pillars holding the vast canopy of the roof which follows into the same design of the pillars.
 
-<IMG_MUMBAI_AIRPORT>
+_"IMG_MUMBAI_AIRPORT"_
 
 This was the first time I was on an international airport terminal with no idea of the first thing I've to do and the intimidatingly large airport was not helping. Few impromptu calls and more than few Google searches later I had a rough idea of what was expected. I dropped the baggage, got my boarding pass, exhanged currency, cleared security check, cleared immigration, and arrived at the terminal. The anxiety had passed and I was waiting calmly for the boarding to start.
 
@@ -32,7 +32,7 @@ The train left Zurich station and, in a while, left the city. And soon after, I 
 
 It's 7:30'ish in the morning, you can feel the cold breeze, and constrasting the cold are the pale-golden sunrays that are permeating through the fog, it's autumn and the long pointy trees have become orange to reddish, the distant hilltops standing against the morning sun. It is a feeling that I will take with me, a picture I cannot forget.
 
-<IMAGE_LANDSCAPE_FROM_TRAIN>
+_"IMG_LANDSCAPE_FROM_TRAIN"_
 
 I reach Basel after a 90 minutes ride and take a tram to check-in to my Airbnb hotel. It's weekend and I had decided to explore this neat little city.
 
@@ -40,7 +40,7 @@ Basel is a historic city and there is a lot to see. You can see the old building
 
 I loved the city and in particular the musuems. I'm a fan of museums and they have multiple museums here. So, the first thing I do is visit the "Musuem Of Natural History". The museum has large number of specimens ranging from the tropical predators (skeloton of the sabertooth cat) to the depth of the sea (Nautilus fossils and shells). I was blown-away by the life-sized recreation models of the animals.
 
-<IMAGE_MUSEUM_ANIMAL>
+_"IMG_MUSEUM_ANIMAL"_
 
 I would say I qualify as an introvert and a chronic gamer and normally abstain from travel. Despite that, I traveled a lot in the two days. Rocking "_Illahi_", on repeat, in my headphones. I'd be lying if I said this didn't feel like something straight out of a movie.
 
