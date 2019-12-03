@@ -34,5 +34,10 @@ I reach Basel after a 90 minutes ride and take a tram to check-in to my Airbnb h
 
 Basel is a historic city and there is a lot to see. You can see the old buildings, gates, musuems and churches and a bridge and the city itself is a wanderlust experience. And the people here are ridiculously, NICE. I don't know whether it was just me or this is a "creative recollection" but overall people seem very happy, warm towards others and nice in-general.
 
+I loved the city and in particular the musuems. I'm a fan of museums and they have multiple museums here. So, the first thing I do is visit the "Musuem Of Natural History". The museum has large number of specimens ranging from the tropical predators (skeloton of the sabertooth cat) to the depth of the sea (Nautilus fossils and shells). I was blown-away by the life-sized recreation models of the animals.
 
+<IMAGE_MUSEUM_ANIMAL>
 
+I would say I qualify as an introvert and a chronic gamer and normally abstain from travel. Despite that, I traveled a lot in the two days. Rocking "_Illahi_", on repeat, in my headphones. I'd be lying if I said this didn't feel like something straight out of a movie.
+
+## The work side
