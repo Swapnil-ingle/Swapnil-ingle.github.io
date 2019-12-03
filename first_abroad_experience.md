@@ -8,7 +8,9 @@ I was all equiped with the necessary documents that I was suppose to have. So I 
 
 This was the first time I was on an international airport terminal with no idea of the first thing I've to do and the intimidatingly large airport was not helping. Few impromptu calls and more than few Google searches later I had a rough idea of what was expected. I dropped the baggage, got my boarding pass, exhanged currency, cleared security check, cleared immigration, and arrived at the terminal. The anxiety had passed and I was waiting calmly for the boarding to start.
 
+
 ## The Arrival
+
 
 This was a 10 hour over-night flight from Mumbai to Zurich airport. I dozed off soon after the flight took off, being exausted from the preparation, packing, and the high-traffic Mumbai commute. I was woken up by the Air Hostess the later morning for breakfast, the flight was 1 and half hours to land. I opted for the non-vegeterian breakfast and was not too delited with the experience. There was the packed breakfast and I had given a fork and spoon to have at it, and the struggle began.
 
@@ -22,7 +24,9 @@ The next thing I notice is everything is so much thought out and well structured
 
 I got the ticket to Basel and the train was leaving in 15 minutes. I hopped on. I see there are hardly 5 people in the entire coach. I wonder if this is a normal crowd or was it just the Saturday morning. Everything was super clean, I tell you, the white sole of my shoes were as spotless when I left after 15 days as they were when I arrived.
 
+
 ## Basel, Switzerland.
+
 
 The train left Zurich station and, in a while, left the city. And soon after, I witnessed the lush green landscapes that Switzerland is known for. It was a mesmerizing site. 
 
@@ -40,4 +44,6 @@ I loved the city and in particular the musuems. I'm a fan of museums and they ha
 
 I would say I qualify as an introvert and a chronic gamer and normally abstain from travel. Despite that, I traveled a lot in the two days. Rocking "_Illahi_", on repeat, in my headphones. I'd be lying if I said this didn't feel like something straight out of a movie.
 
+
 ## The work side
+
