@@ -28,7 +28,7 @@ The train left Zurich station and, in a while, left the city. And soon after, I 
 
 It's 7:30'ish in the morning, you can feel the cold breeze, and constrasting the cold are the pale-golden sunrays that are permeating through the fog, it's autumn and the long pointy trees have become orange to reddish, the distant hilltops standing against the morning sun. It is a feeling that I will take with me, a picture I cannot forget.
 
-<IMAGE>
+<IMAGE_LANDSCAPE_FROM_TRAIN>
 
 I reach Basel after a 90 minutes ride and take a tram to check-in to my Airbnb hotel. It's weekend and I had decided to explore this neat little city.
 
