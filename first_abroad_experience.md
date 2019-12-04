@@ -53,7 +53,7 @@ _"IMG_FROM_PARIS"_
 
 Also, I went to Lucerne to visit Mount Pilatus. I did the "Golden round trip". Where you reach Lucernce, then hop on a boat to Alpnachstad, then ride the cogwheel train to the peak of the mountain, then by cable car down to Frakmuntegg, followed by a Gondola down to Kriens, and finally catch a bus back to Lucerne.
 
-I met some friendly Indian ladies on the trip and hence I had a my single picture which is not a selfie.
+I met some friendly Indian ladies on the trip and hence I had a my single picture which is not a selfie. (_untill the very last day_)
 
 _"SELFIE_FROM_LUCERNE"_
 
