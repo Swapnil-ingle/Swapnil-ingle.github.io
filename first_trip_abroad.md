@@ -50,7 +50,7 @@ It's worth mentioning, I went to Paris for a weekend and spent two days in the L
 
 Also, I went to Lucerne to visit Mount Pilatus. I did the "Golden round trip". Where you reach Lucerne, then hop on a boat to Alpnachstad, then ride the cogwheel train to the peak of the mountain, then by cable car down to Frakmuntegg, followed by a Gondola down to Kriens, and finally catch a bus back to Lucerne.
 
-Everyone would agree, it's nice to meet someone familiar. It's even great when you meet someone familiar when you're abroad. I met some friendly Indian ladies on the Lucerne trip. They came from Dubai and were on a vacation. It's weird we didn't spoke even a word in Hindi.
+Everyone would agree, it's nice to meet someone familiar. It's even great when you meet someone familiar when you're abroad. I met some friendly Indian ladies on the Lucerne trip. They came from Dubai and were on a vacation. It's weird we didn't speak even a word in Hindi.
 
 In my collection, I had only a single picture of me which is not a selfie (_untill the very last day_). Thanks to these lovely people.
 
