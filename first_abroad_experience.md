@@ -49,3 +49,11 @@ I would say I qualify as an introvert and a chronic gamer and normally abstain f
 
 ## The work side
 
+During my 15 days stay at Basel. I met with the existing and prospective clients. I saw the guts of a biobank. I was taught how exactly they form a bacterial culture from the specimen that come in and I saw huge freezers rooms and what not. 
+
+The working hours were pretty lenient compared to back home. Swiss people start work very early, usually by 8:00 AM and wrap up by 5:00 PM. I'm a morning person, mostly, and this struck home
+
+
+
+It's true that you learn by being involved and It was great a learning experience for me.
+
