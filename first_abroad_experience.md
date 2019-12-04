@@ -27,6 +27,7 @@ I got the ticket to Basel and the train was leaving in 15 minutes. I hopped on. 
 
 ## Basel, Switzerland.
 
+First things first, it's 'Baa-zl' not 'Bae-sel'. Remember that if you don't want the locals to ask you _"You're going where!?"_. Yeah, it happened to a friend of mine.
 
 The train left Zurich station and, in a while, left the city. And soon after, I witnessed the lush green landscapes that Switzerland is known for. It was a mesmerizing site. 
 
@@ -40,20 +41,44 @@ Basel is a historic city and there is a lot to see. You can see the old building
 
 I loved the city and in particular the musuems. I'm a museum fanatic and they happen to have multiple of them here. So, the first thing I do is visit the "Musuem Of Natural History". This museum has large number of specimens ranging from the ancient tropical predatory cats (skeloton of a sabertooth cat) to the excotic createrues from the depth of the sea (Nautilus fossils and shells). 
 
-I was blown away by the life-sized recreation models of the animals.
+The life-sized recreation models of the animals were amazing.
 
 _"IMG_MUSEUM_ANIMAL"_
 
 I would say I qualify as an introvert and a chronic gamer and normally abstain from travel. Despite that, I traveled a lot in the two days. Rocking "_Illahi_", on repeat, in my headphones. I'd be lying if I said this didn't feel like something straight out of a movie.
 
+It's worth mentioning, I went to Paris for a weekend and spent all two days in the Louvre Museum. They say there are 33,000 artifacts in the museum and even if you spent 10 secs, seeing each, it would take you 6 weeks total to see the entire Museum and that just blows my mind.
+
+_"IMG_FROM_PARIS"_
 
 ## The work side
 
-During my 15 days stay at Basel. I met with the existing and prospective clients. I saw the guts of a biobank. I was taught how exactly they form a bacterial culture from the specimen that come in and I saw huge freezers rooms and what not. 
+During my 15 days stay at Basel. I met with the existing and prospective clients. I saw the guts of a biobank. I was taught how exactly they form a bacterial culture from the specimen that come in and I saw huge freezers rooms and what not. It's true that you learn more by being involved and It was great a learning experience for me.
 
-The working hours were pretty lenient compared to back home. Swiss people start work very early, usually by 8:00 AM and wrap up by 5:00 PM. I'm a morning person, mostly, and this struck home
+The working hours were pretty lenient compared back to India. Swiss people start work very early, usually by 8:00 AM and wrap up by 5:00 PM. I'm a morning person, mostly, and this timeline struck home. I met amazing people biobankers, reasearchers, technicians, docotoral scholars, programmers, database experts, managers, etc.
 
+Work was mostly teaching the end-users how to efficiently use OpenSpecimen, discussing with other groups on getting them online with the software, designing their customized workflow, occasional debugging of some issues here and there. It was a lot of fun.
 
+Apart from the work, I also got to bond with the people there. There's a boxing club in the unviersity and we went there for a training session. The cultural exchange while visiting the cafeteria for lunch each day with new people. One night, we went to dinner to this authentic Italian place called "Pizzeria Da Giani".
 
-It's true that you learn by being involved and It was great a learning experience for me.
+_"IMG_PIZZERIA_SELFIE"_
+
+When I left for Switzerland, my friends in India were very worried that I might not get accustomed to the local food or would long for Indian food and made me pack numerous snacks. I bought it all back! I loved the food there.
+
+## The farewell
+
+Sadly, everything good must come to an end. It was my last weekend in Basel and fortunately the Basels annual Autumn fair (Herbstmesse) was around the corner. And, as decided, Dr. Egli agreed to take me to the fair.
+
+Normally, you don't see much crowd on the street. To be honest, for me, it was like a nuclear holocaust. _"Where did all the people went?"_ It 6 'O clock in the evening and the streets are empty already. I'm not a crowd person, so I loved it.
+
+On the day of 'Herbstmesse' though, the landscape had totally changed. The streets were filled with people and colorful stalls. There was so much activity, so much crowd, so much life, it was awesome, it was like... _"A normal working day in India!"_.
+
+Dr. Egli and I, went to ride the giant ferrywheel. Adrian, is an intellectual person, a foodie, an anime fanatic, and a gamer. So, there was never a shortage of topics for conversation. The guy literally knows the processing of every ingredient in the plate. 
+
+We ate everything at the stalls, Swiss cheesecakes, chocolates, chestnuts, burgers. We visited the Munster. Went to a coffee place where, supposedly, Einstien would came to drink coffee.
+
+_"IMG_FARE_ADRIAN"_
+
+It was a great experience.
+
 
