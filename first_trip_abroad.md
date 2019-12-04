@@ -52,7 +52,7 @@ Also, I went to Lucerne to visit Mount Pilatus. I did the "Golden round trip". W
 
 Everyone would agree, it's nice to meet someone familiar. It's even great when you meet someone familiar when you're abroad. I met some friendly Indian ladies on the Lucerne trip. They came from Dubai and were on a vacation. It's weird we didn't spoke even a word in Hindi.
 
-In my collection, I have only a single picture of me which is not a selfie (_untill the very last day_). Thanks to these lovely people.
+In my collection, I had only a single picture of me which is not a selfie (_untill the very last day_). Thanks to these lovely people.
 
 ![alt text](https://swapnil-ingle.github.io/images/basel/selfie-from-lucerne.jpg "Lucerne Picture")
 
@@ -74,7 +74,7 @@ When I left for Switzerland, my friends in India were very worried that I might 
 
 Sadly, everything good must come to an end. It was my last weekend in Basel and fortunately the Basel's annual Autumn fair (Herbstmesse) was around the corner. And, as decided, Dr. Egli agreed to take me to the fair.
 
-Normally, you don't see much of a crowd on the street. To be honest, for me, it was like a nuclear holocaust. _"Where did all the people go?"_ It's 6 'o'clock in the evening and the streets are empty already. I'm not a crowd person though, so I loved it!
+Normally, you don't see much of a crowd on the street. To be honest, it was like a nuclear holocaust. _"Where did all the people go?"_ It's 6 'o'clock in the evening and the streets are empty already. I'm not a crowd person though, so I loved it!
 
 ![alt text](https://swapnil-ingle.github.io/images/basel/basel-empty-street.jpg "Basel Street")
 
