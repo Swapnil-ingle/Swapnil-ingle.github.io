@@ -41,7 +41,7 @@ Basel is a historic city and there is a lot to see. You can see the old building
 
 I loved the city and in particular the musuems. I'm a museum fanatic and they happen to have multiple of them here. So, the first thing I do is visit the "Musuem Of Natural History". This museum has large number of specimens ranging from the ancient tropical predatory cats (skeloton of a sabertooth cat) to the excotic createrues from the depth of the sea (Nautilus fossils and shells). 
 
-The life-sized recreation models of the animals were amazing.
+The life-sized recreation models of the animals were amazing. It's a shame that most of the descriptions was in German and transcript in English was not provided.
 
 _"IMG_MUSEUM_ANIMAL"_
 
@@ -50,6 +50,12 @@ I would say I qualify as an introvert and a chronic gamer and normally abstain f
 It's worth mentioning, I went to Paris for a weekend and spent all two days in the Louvre Museum. They say there are 33,000 artifacts in the museum and even if you spent 10 secs, seeing each, it would take you 6 weeks total to see the entire Museum and that just blows my mind.
 
 _"IMG_FROM_PARIS"_
+
+Also, I went to Lucerne to visit Mount Pilatus. I did the "Golden round trip". Where you reach Lucernce, then hop on a boat to Alpnachstad, then ride the cogwheel train to the peak of the mountain, then by cable car down to Frakmuntegg, followed by a Gondola down to Kriens, and finally catch a bus back to Lucerne.
+
+I met some friendly Indian ladies on the trip and hence I had a my single picture which is not a selfie.
+
+_"SELFIE_FROM_LUCERNE"_
 
 ## The Work
 
