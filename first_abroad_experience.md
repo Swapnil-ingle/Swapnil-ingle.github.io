@@ -51,7 +51,7 @@ It's worth mentioning, I went to Paris for a weekend and spent all two days in t
 
 _"IMG_FROM_PARIS"_
 
-## The work side
+## The Work
 
 During my 15 days stay at Basel. I met with the existing and prospective clients. I saw the guts of a biobank. I was taught how exactly they form a bacterial culture from the specimen that come in and I saw huge freezers rooms and what not. It's true that you learn more by being involved and It was great a learning experience for me.
 
@@ -65,7 +65,7 @@ _"IMG_PIZZERIA_SELFIE"_
 
 When I left for Switzerland, my friends in India were very worried that I might not get accustomed to the local food or would long for Indian food and made me pack numerous snacks. I bought it all back! I loved the food there.
 
-## The farewell
+## The Farewell
 
 Sadly, everything good must come to an end. It was my last weekend in Basel and fortunately the Basels annual Autumn fair (Herbstmesse) was around the corner. And, as decided, Dr. Egli agreed to take me to the fair.
 
@@ -79,6 +79,4 @@ We ate everything at the stalls, Swiss cheesecakes, chocolates, chestnuts, burge
 
 _"IMG_FARE_ADRIAN"_
 
-It was a great experience.
-
-
+Finally, I bid my farewell to the city and left for India the next day.
