@@ -44,7 +44,7 @@ The life-sized recreation models of the animals were amazing. It's a shame that 
 
 I would say I qualify as an introvert and a chronic gamer and normally abstain from travel. Despite that, I traveled a lot during this trip. Rocking "_Illahi_", on repeat, in my headphones. I'd be lying if I said this didn't feel like something straight out of a movie.
 
-It's worth mentioning, I went to Paris for a weekend and spent two days in the Louvre Museum. They say there are 33,000 artifacts in the museum and even if you spent 10 secs, seeing each, it would take you 6 weeks total to see the entire Museum and that, just blows my mind.
+It's worth mentioning, I went to Paris for a weekend and spent two days in the Louvre Museum. They say there are 380,000 artifacts in the museum and even if you spent 10 secs, seeing each, it would take you 6 weeks total to see the entire Museum and that, just blows my mind.
 
 ![alt text](https://swapnil-ingle.github.io/images/basel/paris-market.jpg "Paris Market")
 
