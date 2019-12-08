@@ -20,6 +20,7 @@ Feel free to explore.
 13. [SQL Explain plan](https://swapnil-ingle.github.io/SQL-Explain)
 14. [Writing with integrity: Lessons in being an elite writer](https://swapnil-ingle.github.io/writing-with-integrity)
 15. [First Trip Abroad](https://swapnil-ingle.github.io/first_trip_abroad)
+16. [Avoiding Redundant Words: Lessons in being an elite writer](https://swapnil-ingle.github.io/avoid_redundant_words)
 
 Comments, feedbacks and criticism are always welcome!
 ## **Email:** dr.swapnilingle@gmail.com
