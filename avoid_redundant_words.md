@@ -50,7 +50,7 @@ The athlete, born in China, set a new record at the last Olympics.
 
 **Explanation:** A record set is always new, it’s only required to use the word ‘_new_’ if you’re distinguishing the record from the one that was set earlier.
 
-Try to look out for such words and eliminate them.
+There are many such examples out there, try to look out for such words and eliminate them.
 
 **Reference:**
 
