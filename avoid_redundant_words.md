@@ -1,4 +1,5 @@
 ## Avoiding Redundant words
+###### Lessons in being an elite writer
 
 You should always try to cut the redundant words from your sentences to make the writing more punchy and economical.
 
