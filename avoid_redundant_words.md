@@ -3,7 +3,7 @@
 
 You should always try to cut the redundant words from your sentences to make the writing more punchy and economical.
 
-These words often appear side-by-side. For example, _“The sum total …”_, well, the *sum* is always *the total*. 
+These words often appear side-by-side. For example, it's common to see people writing _“The sum total …”_, well, the *"sum"* is always *"the total"*. 
 You don't need to mention it twice.
 
 > Cut it out!
