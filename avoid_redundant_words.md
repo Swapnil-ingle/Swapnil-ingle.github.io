@@ -18,9 +18,9 @@ The four pebbles in his left hand and two in his right added up to a sum total o
 ### Example #2:
 When Bob opened his present, he got an unexpected surprise: inside the box was the red shirt he’d always wanted.
 
-**New:** When Bob opened his present, he got an ~~unexpected~~ surprised by seeing the red shirt that he’d always wanted.
+**New:** When Bob opened his present, he got ~~an unexpected:~~ surprised by seeing the red shirt that he’d always wanted.
 
-*Explanation:* A surprise, by nature, is always unexpected.
+**Explanation:** A surprise, by nature, is always unexpected.
 
 ### Example #3:
 The project, a joint collaboration between the two rival firms, was a huge success.
