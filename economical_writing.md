@@ -11,10 +11,10 @@ The author says, imagine there is a fishmonger who puts up a sign that says,
 
 “_Here_” is of course redundant as it’s obvious that whoever can read the sign can also see the stall. “_Fresh Fish Sold ~~Here~~_”. Actually, “_Sold_” is also redundant, nobody will assume that the fish are being given away. “_Fresh Fish ~~Sold Here~~_”. On a  further thought, “_Fresh_” is also not necessary, opposite of fresh is stale and nobody would advertise stale fish, right!? 
 
-> “**~~Fresh~~ Fish ~~Sold Here~~**”
+> “~~Fresh~~ **Fish** ~~Sold Here~~”
 
 We don’t even need “Fish” there, because whoever would be reading the sign would already know that by the smell. 
-> “~~Fresh Fish Sold Here~~”
+> “**~~Fresh Fish Sold Here~~**”
 
 This is just a figurative example of upon deep thought how you can eliminate more words. Not to be taken literally. The point was to illustrate how one can employ critical thinking.
 
