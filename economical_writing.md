@@ -35,7 +35,7 @@ The specific point I am seeking to make is that the colours red and grey go well
 > Point, by nature, are always specific.
 
 The ~~specific~~ point I am seeking to make is that the colours red and grey go well together.
-> The point I am seeking to make is really just saying "My point is..."
+> "_The point I am seeking to make_" is really just saying, "_My point is..._"
 
 My point is that the colours red and grey go well together.
 > When you are making a statement it is implied that you are stating your point. No need to explicitly write it.
