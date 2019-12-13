@@ -1,4 +1,5 @@
 ## Economical (or Tight) Writing
+###### Lessons in being an elite writer
 
 In Economical writing each word is placed with deliberate thought, no redundant words are used and you should not be able to simplify an already “Tight” sentence.
 This is an example from a book by Harold based on Editorial writing.
