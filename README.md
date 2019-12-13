@@ -21,6 +21,7 @@ Feel free to explore.
 14. [Writing with integrity: Lessons in being an elite writer](https://swapnil-ingle.github.io/writing-with-integrity)
 15. [First Trip Abroad](https://swapnil-ingle.github.io/first_trip_abroad)
 16. [Avoiding Redundant Words: Lessons in being an elite writer](https://swapnil-ingle.github.io/avoid_redundant_words)
+17. [Economical Writing: Lessons in being an elite writer](https://swapnil-ingle.github.io/economical_writing)
 
 Comments, feedbacks and criticism are always welcome!
 ## **Email:** dr.swapnilingle@gmail.com
