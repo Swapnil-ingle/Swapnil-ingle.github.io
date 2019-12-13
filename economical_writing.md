@@ -4,7 +4,7 @@
 In Economical writing each word is placed with deliberate thought, no redundant words are used and you should not be able to simplify an already “Tight” sentence.
 This is an example from a book by Harold based on Editorial writing.
 
-The author says, imagine there is a fishmonger who puts up a sign that reads "_Fresh Fish Sold Here_"
+The author says, imagine there is a fishmonger who puts up a sign that reads,
 
 **“Fresh Fish Sold Here”.** 
 > Now, what can you cut from the sentence?
