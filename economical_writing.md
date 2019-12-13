@@ -67,6 +67,6 @@ My point is that the colours red and grey go well together.
 * A large number of → many
 
 Don't forget to factor in other important considerations while you do that. Like, have you shrunk the meaning? That is, have you compromised the clarity of the idea too much by cutting so much? Have you made the sentence sound too clipped, perhaps?
-That is, have you sacrificed too much elegance in your quest for simplicity? Or, have you removed too much of the colorfulness of the writing? 
+That is, have you sacrificed too much elegance in your quest for simplicity? 
 
-That is, have you sacrificed too much evocativeness for simplicity? Those are the sorts of considerations you should be weighing up when performing “simplicity” operations like this, because remember we're balancing the ingredients. But where none of those other ingredients are adversely affected, cut, cut, cut for maximum efficiency.
+Have you removed too much of the colorfulness of the writing? Have you sacrificed too much evocativeness for simplicity? Those are the sorts of considerations you should be weighing up when performing “simplicity” operations like this, because remember we're balancing the ingredients. But where none of those other ingredients are adversely affected, cut, cut, cut for maximum efficiency.
