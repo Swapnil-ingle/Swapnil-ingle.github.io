@@ -22,6 +22,7 @@ Feel free to explore.
 15. [First Trip Abroad](https://swapnil-ingle.github.io/first_trip_abroad)
 16. [Avoiding Redundant Words: Lessons in being an elite writer](https://swapnil-ingle.github.io/avoid_redundant_words)
 17. [Economical Writing: Lessons in being an elite writer](https://swapnil-ingle.github.io/economical_writing)
+18. [Citizenship Amendment Act](https://swapnil-ingle.github.io/indian_caa_cab)
 
 Comments, feedbacks and criticism are always welcome!
 ## **Email:** dr.swapnilingle@gmail.com
