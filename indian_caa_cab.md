@@ -39,7 +39,7 @@ This is not the first time such an issue has arosed in Assam. Let's take a littl
 * Revolts regarding this issue persisted for whole six years (1979 - 1985) and many people lost their life.
 * This is when the Nellie massacre happened in Assam claiming around 2000 lifes.
 
-## Act IV - Assam Accord:
+## Act IV - The Assam Accord:
 
 * As a conclusion to the protest led by AASU, the government made a settlement called as "Assam Accord".
 * According to Assam Accord, if someone entered Assam:
