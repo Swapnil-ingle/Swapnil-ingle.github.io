@@ -1,19 +1,21 @@
 # CAA/CAB : Citizenship Amendment Act / Citizenship Amendment Bill
 
-* First it used to taked 14 years to acquire Indian citizenship.
-* The CAB proposed that minorities such as Hindu, Buddhist, Jain, Christians, Sikhs, Parsis fleeing from Bangladesh, Pakistan, and Afghanistan. (Who arrived in India on or before 31-Dec-2019)
-* This makes it easier for non-Muslims refugees and illegal immigrants from the three islamic nations to gain Indian citizenship. This has raised questions such as this is a Muslim biased law.
-* This is because, in the two aforementioned Islamic nations it is claused in their constitution that they're a theocratic[1] nation and hence it is supposed that Muslims would not be exploited in these nations based on religion, excluding them from the minorities in the CAB.
-* A large portion of north-east is against the CAB. This was holding the CAB bill to pass from a long time, following this Government had made some exemptions in the CAB. The ILP[2] states and the areas amongst 6th Schedule Arunachal Pradesh, Nagaland, Manipur, Mizoram would be exempted from the CAB
+## Let's start with some facts about CAA.
+
+* It takes **14 years** of residence for a legal immegrant to acquire Indian citizenship.
+* The CAB proposed that minorities such as Hindu, Buddhist, Jain, Christians, Sikhs, Parsis fleeing from Bangladesh, Pakistan, and Afghanistan. Who arrived in India on or before 31-Dec-2014 would be accepted as legal citizens.
+* This makes it easier for non-Muslims refugees and illegal immigrants from the three islamic nations to gain Indian citizenship. This has raised questions such as CAB being a Muslim biased law.
+* This is because, in two of the aforementioned Islamic nations it is mentioned in their constitution that they're a theocratic[1] nation and hence it is supposed that Muslims would not be exploited in these nations based on religion discrimination, excluding them from the minority groups in the CAB.
+* A large portion of north-east states were against the CAB. This was blocking the CAB bill to pass from a long time, following this Government had made some exemptions in the CAB. The ILP[2] states and the areas amongst 6th Schedule Arunachal Pradesh, Nagaland, Manipur, Mizoram would be exempted from the CAB
 CAB would be affected only in Assam, Meghalaya, Tripura and NOT in Arunachal Pradesh, Nagaland, Manipur, Mizoram.
 
-Why is Assam vehemontly opposed to CAB?
-This is not the first time such an issue has arosed in Assam.
+## Why is Assam vehemontly opposed to CAB?
 
-Let's take a little look at the history of Assam. 
-* During the Ahom dynasty Assam had developed a rich and unique culture, having own language, varied art forms, and what not.
+This is not the first time such an issue has arosed in Assam. Let's take a little look at the history of Assam. 
 
-# The Assamese culture in peril:
+* During the **Ahom dynasty** Assam had developed a rich and unique culture, having own language, varied art forms, and what not. This began to change with the intrusion of East India Company.
+
+## The Assamese culture in peril:
 
 ## Act I - 1800(s) - The Inception of the Bengali influence: 
 
@@ -40,17 +42,21 @@ Let's take a little look at the history of Assam.
 ## Act IV - Assam Accord:
 
 * As a conclusion to the protest led by AASU, the government made a settlement called as "Assam Accord".
-* According to Assam Accord, if someone entered Assam
-1. Before 1966 - He was to be considered a citizen of Assam.
-2. Between 1966 and 1971 - He was to be considered a citizen, but without voting rights for next 10 years.
-3. After 24 March 1971 - He was NOT to be considered a citizen.
+* According to Assam Accord, if someone entered Assam:
+> 1. Before 1966 - He was to be considered a citizen of Assam.
+> 2. Between 1966 and 1971 - He was to be considered a citizen, but without voting rights for next 10 years.
+> 3. After 24 March 1971 - He was NOT to be considered a citizen.
 * It was also decided that an NRC would be taken where applicants would need to prove that they or their parents, granparents were citizen before March 25, 1971. To seek out the illegal immegrants in Assam. This was promised in 1985, which was delivered very recently (31-Aug-2019). And 19 lakh people were excluded from the final list.
 * In the Assam Accord, clause 5.8, states that "_Foreigners who came to Assam on or after March 25, 1971 shall continue to be detected, deleted and practical steps shall be taken to expel such foreigners_", which is being contradicted by the Citizenship Amendment Bill.
+
+## Conclusion?
 
 Protestors are enraged about the fact that inspite of the Assam accord promising, in 1985, that people immegrated afer 1971 would NOT be considered a citizen government now has issued CAB which states that people immegrated after 31-Dec-2014 would be considered as a citizen. 
 
 This, people state, is unfair as the government is not obliging to the prior promises made. Also, according to 2011 census, only 48% people in Assam have stated their language as Assamese and this has people debating that they're becoming a minority in their own state and the increasing illegal immegration has already diluted the Assamese culture, and changed the demographic compostion of the state, which in turn has changed the Assamese politics.
 
-*References:*
+### References:
+
 [1] Theocratic: relating to or denoting a system of government in which priests rule in the name of God or a god.
+
 [2] States which require the residence to have an Inner Line Permit.
