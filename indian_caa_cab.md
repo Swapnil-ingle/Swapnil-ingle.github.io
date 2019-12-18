@@ -1,4 +1,4 @@
-# CAA/CAB : Citizenship Amendment Act / Citizenship Amendment Bill
+# Assam on 'Citizenship Amendment Act/Bill' (CAA/CAB).
 
 ## Let's start with some facts about CAA.
 
