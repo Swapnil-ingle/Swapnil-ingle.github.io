@@ -3,8 +3,8 @@
 ## Let's start with some facts about CAA.
 
 * It takes **14 years** of residence for a legal immegrant to acquire Indian citizenship.
-* The CAB proposed that minorities such as Hindu, Buddhist, Jain, Christians, Sikhs, Parsis fleeing from Bangladesh, Pakistan, and Afghanistan. Who arrived in India on or before 31-Dec-2014 would be accepted as legal citizens.
-* This makes it easier for non-Muslims refugees and illegal immigrants from the three islamic nations to gain Indian citizenship. This has raised questions such as CAB being a Muslim biased law.
+* The CAB proposed that minorities such as **Hindu, Buddhist, Jain, Christians, Sikhs, Parsis** fleeing from **Bangladesh, Pakistan, and Afghanistan**. Who **arrived in India on or before 31-Dec-2014 would be accepted as legal citizens**.
+* This makes it easier for **non-Muslims** refugees and illegal immigrants from the three islamic nations to gain Indian citizenship. This has raised questions such as CAB being a Muslim biased law.
 * This is because, in two of the aforementioned Islamic nations it is mentioned in their constitution that they're a theocratic[1] nation and hence it is supposed that Muslims would not be exploited in these nations based on religion discrimination, excluding them from the minority groups in the CAB.
 * A large portion of north-east states were against the CAB. This was blocking the CAB bill to pass from a long time, following this Government had made some exemptions in the CAB. The ILP[2] states and the areas amongst 6th Schedule Arunachal Pradesh, Nagaland, Manipur, Mizoram would be exempted from the CAB
 CAB would be affected only in Assam, Meghalaya, Tripura and NOT in Arunachal Pradesh, Nagaland, Manipur, Mizoram.
