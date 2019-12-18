@@ -51,7 +51,7 @@ This is not the first time such an issue has arisen in Assam. Let's take a littl
 
 ## Conclusion
 
-Protestors are enraged about the fact that in spite of the Assam accord promising, in 1985, that people immigrated after 1971 would NOT be considered a citizen. And the government now has issued CAB which states that people immigrated after 31-Dec-2014 would be considered as a citizen.
+Protestors are enraged about the fact that in spite of the Assam accord promising, in 1985, that people immigrated after 1971 would NOT be considered a citizen. And the government now has issued CAB which states that people immigrated before 31-Dec-2014 would be considered as a citizen.
 
 This, people state, is unfair as the government is not obliged to the prior promises made. Also, according to 2011 census, only 48% of people in Assam have stated their language as Assamese and this has people debating that they're becoming a minority in their own state and the increasing illegal immigration has already diluted the Assamese culture and changed the demographic composition of the state, which in turn has changed the Assamese politics.
 
