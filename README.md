@@ -23,6 +23,7 @@ Feel free to explore.
 16. [Avoiding Redundant Words: Lessons in being an elite writer](https://swapnil-ingle.github.io/avoid_redundant_words)
 17. [Economical Writing: Lessons in being an elite writer](https://swapnil-ingle.github.io/economical_writing)
 18. [Assam on Citizenship Amendment Act](https://swapnil-ingle.github.io/Assam_on_cab)
+19. [Scaling Harder Kulm - Interlaken, Switzerland](https://swapnil-ingle.github.io/Scaling_Harder_Kulm)
 
 Comments, feedbacks and criticism are always welcome!
 ## **Email:** dr.swapnilingle@gmail.com
