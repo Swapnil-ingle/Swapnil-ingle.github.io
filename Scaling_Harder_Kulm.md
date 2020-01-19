@@ -36,11 +36,13 @@ There was not a single soul at the top, which made it even more special. This pl
 
 Ok, now it was time to address the elephant in the room. I knew the hiking down was going to be scarier, while climbing you don't look down at the valley, you are motivated, you have will-power, you are focused on the peak, the view it'll have and everything, but while descending it's the opposite, you don't have enough motivation, your will-power is all used up by the climb, you're leaving behind the hill-top, the gorgeous view, you're sort-of acknowledging the end of an experience, you're heading back to your normal mundane life, and there's going to be office tomorrow, Balls!
 
-I cannot stress it enough how much I cursed myself for not bringing good trekking boots and trekking sticks. There was crystallized snow, water dripping from the side and mud, it was hell. I was slipping and balancing at all the crucial turns, at some points there was literally 3 feet of walking-ground and a smooth snow-white steep valley beside it and I could not step a firm foot.
+I cannot stress it enough how much I cursed myself for not bringing good trekking boots and trekking sticks. Imagine this, there is crystallized snow on the 3-feet-wide trail, there's water dripping from the side and there's also mud, and a slip of foot will send on a roller-coaster ride towards the valley, which ain't much fun if you ask me. 
+
+I was slipping and balancing at all the crucial turns, at some points there was literally a feet of walking-ground and a smooth snow-white steep valley beside it and I could not step a firm foot.
 
 It was really dangerous, so if you're reading this, please don't forward it to my parents.
 
-All in all, a great experience, if you're ever in Interlaken I highly recommend going up-top. 
+All in all, a great experience, if you're ever in Interlaken I highly recommend going up-top.
 
 This is me flexing at the end of all this existential risk.
 
