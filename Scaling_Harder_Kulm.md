@@ -34,7 +34,7 @@ There I was at the top of this thing, all the aching has paid off and the view w
 
 There was not a single soul at the top, which made it even more special. This place is filled with tourists in summer btw.
 
-Ok, now it was time to address the elephant in the room. I knew the hiking down was going to be scarier, while climbing you don't look down at the valley, you are motivated, you have will-power, you are focused on the peak, the view it'll have and everything, but while descending it's the opposite, you don't have enough motivation, your will-power is all used up by the climb, you're leaving behind the hill-top, the gorgeous view, you're sort-of acknowledging the end of an experience, and you remember that there's going to be office tomorrow, Balls!
+Ok, now it was time to address the elephant in the room. I knew the hiking down was going to be scarier, while climbing you don't look down at the valley, you are motivated, you have will-power, you are focused on the peak, the view it'll have and everything, but while descending it's the opposite, you don't have enough motivation, your will-power is all used up by the climb, you're leaving behind the hill-top, the gorgeous view, you're sort-of acknowledging the end of an experience, you're heading back to your normal mundane life, and there's going to be office tomorrow, Balls!
 
 I cannot stress it enough how much I cursed myself for not bringing good trekking boots and trekking sticks. There was crystallized snow, water dripping from the side and mud, it was hell. I was slipping and balancing at all the crucial turns, at some points there was literally 3 feet of walking-ground and a smooth snow-white steep valley beside it and I could not step a firm foot.
 
