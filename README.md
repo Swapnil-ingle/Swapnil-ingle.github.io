@@ -4,7 +4,7 @@ Residing here are some blogs which I wrote.
 
 Feel free to explore.
 
-**Blogs:**
+### Blogs:
 1. [A Newbie assignment which I got starting career in Krishagni Pvt Ltd](https://swapnil-ingle.github.io/Ass1)
 2. [My summary of second assignment in Krishagni Pvt Ltd](https://swapnil-ingle.github.io/Ass2)
 3. [All concepts which I learned from the assignment](https://swapnil-ingle.github.io/Concepts)
@@ -24,6 +24,16 @@ Feel free to explore.
 17. [Economical Writing: Lessons in being an elite writer](https://swapnil-ingle.github.io/economical_writing)
 18. [Assam on Citizenship Amendment Act](https://swapnil-ingle.github.io/Assam_on_cab)
 19. [Scaling Harder Kulm - Interlaken, Switzerland](https://swapnil-ingle.github.io/Scaling_Harder_Kulm)
+
+### Notes:
+
+These are my notes on topics I've learned in the past and am currently learning.
+
+1. [Java - Programming Language](https://docs.google.com/document/d/1omY_6zTHM2cwiJ6whHsH_MfdG0mWkLQ_lGUMtP-grO4/edit#heading=h.nrnw03t7conb)
+2. [Data Structures - Using Java](https://docs.google.com/document/d/1rX2izqvOyWR5dWZ8gtwrI6RcaoRCaZQIuJ_qjFhK0fU/edit#heading=h.d5kx2ts9gwc1)
+3. [Database Management Systems](https://docs.google.com/document/d/1FwTk1y2N63bAp5K7paAQJ8Mqt4qQUOFjbRFhZ_PxhT0/edit#heading=h.aczyuw2yex2w)
+4. [Testing in Java and TestNG Framework](https://docs.google.com/document/d/1u5i3M7nlwAVA2rY8_0Wik69mfgAK7WtxxlGcxPcPpr4/edit)
+5. [Subnetting in Linux](https://docs.google.com/document/d/1u5i3M7nlwAVA2rY8_0Wik69mfgAK7WtxxlGcxPcPpr4/edit)
 
 Comments, feedbacks and criticism are always welcome!
 ## **Email:** dr.swapnilingle@gmail.com
