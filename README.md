@@ -24,6 +24,7 @@ Feel free to explore.
 17. [Economical Writing: Lessons in being an elite writer](https://swapnil-ingle.github.io/economical_writing)
 18. [Assam on Citizenship Amendment Act](https://swapnil-ingle.github.io/Assam_on_cab)
 19. [Scaling Harder Kulm - Interlaken, Switzerland](https://swapnil-ingle.github.io/Scaling_Harder_Kulm)
+20. [Angular project: Adding sign-up functionality](https://swapnil-ingle.github.io/add-signup-with-angular)
 
 ### Notes:
 
