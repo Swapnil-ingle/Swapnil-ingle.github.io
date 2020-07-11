@@ -5,7 +5,7 @@
 1. `ng new <app_name>`
 2. `cd <app_name>`
 3. Open in 'Visual Studios'
-4. run '`ng serve`' The app will start at localhost:4000
+4. run '`ng serve`' The app will start at localhost:4200
 
 #### Create a header component
 
