@@ -11,12 +11,13 @@
 
 0. Run: `ng g c header`
 1. Fill the header.component.html and header.component.css file
-2. This will have a `'"routerLink = '/sign-up'"` (Add app.router.ts in `routes = [path: '', component = signupComponent]`)
+2. This will have a `'"routerLink = '/sign-up'"` (In app.router.ts add `routes = [path: '', component = signupComponent]`)
 3. Add `<router-outlet></router-outlet>` in the app.component.html file.
 4. Add RoutingModule (./app-routing.module) to app.module.ts
 
-#### Create a sign-up component: ng g c auth/signup
+#### Create a sign-up component
 
+0. Enter: `ng g c auth/signup`
 1. Fill the signup.component.html and signup.component.css file
 2. The HTML file will have a `<form></form>`
 3. Add the `[formGroup]='<formGroupName>'` to the `<form [formGroup]='<formGroupName>'></form>` tag
