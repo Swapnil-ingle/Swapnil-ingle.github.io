@@ -1,6 +1,6 @@
 ## SOLID programming principles
 
-The SOLID principles is a framework one should follow in order to write a readable, maintainable and extendable code.
+The SOLID principles are a framework one should follow in order to write readable, maintainable, and extendable code.
 
 ### SOLID is an acronym for:
 
@@ -14,15 +14,15 @@ The SOLID principles is a framework one should follow in order to write a readab
 
 "Single Responsibility Principle" states that one block of function (either method or a class) should be responsible for doing one thing and one thing only. If you find a reason for changing a class, extract that functionality out of the class and tear a new one.
 
-Classes/Methods should be small, precise, appropriately-named and should not do more than one thing.
+Classes/Methods should be small, precise, appropriately-named, and should not do more than one thing.
 
 ### Open/Closed Principle
 
 Classes in your program should be open to extension but closed for modification.
 
-The idea is that your core program/project should be unfailable.
+The idea is that your core program/project should be un-failable.
 
-Suppose, you have payment system that makes three different type of payments (UPI, NetBanking, Paypal). You've a function pay(Request req) which gets the type of payment and calls method of class Payment which have different types of payment logic.
+Suppose, you have a payment system that makes three different types of payments (UPI, NetBanking, Paypal). You have a method pay(Request req) which gets the type of payment and calls the method of class Payment which has different types of payment logic.
 
 ```java
 public void pay(Request request) {
@@ -56,7 +56,7 @@ Now, suppose if you want to add one more payment method "CashOnDelivery". With t
 1. Add ```else if (...)``` statement in the pay() method
 2. Add a new method ```payUsingCashOnDelivery(Request request) { ... }``` in Payment class.
 
-However, this violates the Open/Closed principle. It make look like the above classes are not dependent on each other, but adding method to one class will lead you to editing the method in other class and overtime this will make your code much more tangled.
+However, this violates the Open/Closed principle. It may look like the above classes are not dependent on each other, but adding a method to one class will lead you to edit the method in other classes and overtime this will make your code much more tangled.
 
 Therefore, here we can use [factoryDesignPattern](https://www.tutorialspoint.com/design_pattern/factory_pattern.htm) to ensure the Open/Closed principle is not violated.
 
@@ -106,12 +106,12 @@ public class PaymentFactory {
 
 ```
 
-Your goal should be "Adding Code" instead of "Chanding Code".
+Your goal should be "Adding Code" instead of "Changing Code".
 
 ### Liskov Substitution Principle
 
 The Liskov Substitution Principle states that:
-> "Let $(x) be a property provalbe about objects x of type T. Then $(y) should be true for all objects y of type S where S is a subtype of T."
+> "Let $(x) be a property provable about objects x of type T. Then $(y) should be true for all objects y of type S where S is a subtype of T."
 
 I didn't get that either. In a nutshell, what it says is _"Our program should run as it is, even if all the implementations of all defined interfaces are implemented by a different concrete class"_.
 
@@ -119,7 +119,7 @@ I didn't get that either. In a nutshell, what it says is _"Our program should ru
 
 No client should be forced to depend on methods it doesn't use.
 
-We can understand this with an example, suppose we have a class ```Notification``` which has ```public void sendNotification(Subscriber sub) { ... }``` method that gets the emailId from the subsriber and sends the Notification.
+We can understand this with an example, suppose we have a class ```Notification``` which has ```public void sendNotification(Subscriber sub) { ... }``` method that gets the emailId from the subscriber and sends the Notification.
 
 ```java
 public class Notification {
@@ -128,7 +128,7 @@ public class Notification {
   }
 }
 // This notify() method now depends upon the whole Subscriber object, and it didn't need to. It only needs getNotifyEmail() method.
-// Note that, now notify method cannot be used by any other object which also has an emailID and to whom we can send notification,
+// Note that now notify() method cannot be used by any other object which also has an email and to whom we can send a notification,
 // but who is NOT a subscriber.
 ```
 
@@ -159,24 +159,24 @@ Note: Strike a balance between too monolithic objects v/s too segregated objects
 
 ### Dependency Inversion Principle (DIP)
 
-1. High-Level module should not depend upon low-level modules. Both should depend upon abstractions. 
+1. The high-Level modules should not depend upon low-level modules. Both should depend upon abstractions. 
 2. Abstractions should not depend on details, details should depend on abstractions.
 
-During application developement, a very common practice is to build lower level module which are consumed by higher level modules. This creates a dependency of higher level modules on lower level components. This limits the reusability of higher-level components.
+During application development, a very common practice is to build lower-level modules which are consumed by higher-level modules. This creates a dependency of higher-level modules on lower-level components. This limits the reusability of higher-level components.
 
 There are many vague terms used in the definition in the principle, this [blog](https://medium.com/@kedren.villena/simplifying-dependency-inversion-principle-dip-59228122649a) from Medium does a very good job of explaining this in details with good examples.
 
 ### Don't get trapped by SOLID
 
-* SOLID design principle are principles, not rules.
+* SOLID design principles are principles, not rules.
 
 * Use common sense while applying SOLID.
 
 * Don't over fragment your code for the sake of SPR or SOLID.
 
-* SOLID is tool, not a goal.
+* SOLID is a tool, not a goal.
 
-> Don't try to acheive SOLID, use SOLID to acheive maintainability.
+> Don't try to achieve SOLID, use SOLID to achieve maintainability.
 
 ### References:
 * [Becoming a better developer by Katerina Trajchevska](https://www.youtube.com/watch?v=rtmFCcjEgEw)
