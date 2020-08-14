@@ -4,11 +4,11 @@ The SOLID principles is a framework one should follow in order to write a readab
 
 ### SOLID is an acronym for:
 
-#### S --> Single Responsibility Principle
-#### O --> Open/Closed Principle
-#### L --> Liskov Substitution Principle
-#### I --> 
-#### D --> 
+* S --> Single Responsibility Principle
+* O --> Open/Closed Principle
+* L --> Liskov Substitution Principle
+* I --> Interface Segregation Principle
+* D --> Dependency Inversion Principle
 
 ### Single Responsibility Principle
 
@@ -53,12 +53,12 @@ public class Payment {
 ```
 
 Now, suppose if you want to add one more payment method "CashOnDelivery". With the above code, you'll need to do the following:
-1. Add ```else if ``` statement in the pay() method
-2. Add a new method ```payUsingCashOnDelivery(Request request)``` in Payment class.
+1. Add ```else if (...)``` statement in the pay() method
+2. Add a new method ```payUsingCashOnDelivery(Request request) { ... }``` in Payment class.
 
 However, this violates the Open/Closed principle. It make look like the above classes are not dependent on each other, but adding method to one class will lead you to editing the method in other class and overtime this will make your code much more tangled.
 
-Therefore, here we can use [factoryDesignPattern](https://www.tutorialspoint.com/design_pattern/factory_pattern.htm) to ensure the Open/Closed principle.
+Therefore, here we can use [factoryDesignPattern](https://www.tutorialspoint.com/design_pattern/factory_pattern.htm) to ensure the Open/Closed principle is not violated.
 
 ```java
 public void pay(Request request) {
@@ -109,6 +109,57 @@ public class PaymentFactory {
 Your goal should be "Adding Code" instead of "Chanding Code".
 
 ### Liskov Substitution Principle
+
+The Liskov Substitution Principle states that:
+> "Let $(x) be a property provalbe about objects x of type T. Then $(y) should be true for all objects y of type S where S is a subtype of T."
+
+I didn't get that either. In a nutshell, what it says is _"Our program should run as it is, even if all the implementations of all defined interfaces are implemented by a different concrete class"_.
+
+### Interface Segregation Principle
+
+No client should be forced to depend on methods it doesn't use.
+
+We can understand this with an example, suppose we have a class ```Notification``` which has ```public void sendNotification(Subscriber sub) { ... }``` method that gets the emailId from the subsriber and sends the Notification.
+
+```java
+public class Notification {
+  public void notify(Subscriber sub) {
+    Mail.to(sub.getNotifyEmail(), "Message");
+  }
+}
+// This notify() method now depends upon the whole Subscriber object, and it didn't need to. It only needs getNotifyEmail() method.
+// Note that, now notify method cannot be used by any other object which also has an emailID and to whom we can send notification,
+// but who is NOT a subscriber.
+```
+
+To solve this, we can make an interface ```Notifiable``` and have the Subscriber class implement this. This is how the code now changes.
+
+```java
+public interface Notifiable {
+  public String getNotifyEmail();
+}
+
+public class Subscriber implements Notifiable {
+  @Override
+  public String getNotifyEmail() {
+    // TODO: Send notify email
+  }
+}
+
+public class Notification {
+  public void notify(Notifiable subscriber) {
+    Mail.to(subscriber.getNotifyEmail(), "Message");
+  }
+}
+```
+
+Rather than making huge objects we make small/precise interfaces and implement those.
+
+Note: Strike a balance between too monolithic objects v/s too segregated objects, both extremes are not beneficial.
+
+### Dependency Inversion Principle
+
+High-Level module should not depend upon low-level modules. Both should depend upon abstractions.
 
 ### References:
 * [Becoming a better developer by Katerina Trajchevska](https://www.youtube.com/watch?v=rtmFCcjEgEw)
