@@ -26,6 +26,7 @@ Feel free to explore.
 19. [Scaling Harder Kulm - Interlaken, Switzerland](https://swapnil-ingle.github.io/Scaling_Harder_Kulm)
 20. [Angular project: Adding sign-up functionality](https://swapnil-ingle.github.io/add-signup-with-angular)
 21. [SOLID principles](https://swapnil-ingle.github.io/solid)
+22. [Project adoption at Basel - Switzerland](https://www.openspecimen.org/biobanking-lims-university-hospital-basel-switzerland/)
 
 ### Notes:
 
