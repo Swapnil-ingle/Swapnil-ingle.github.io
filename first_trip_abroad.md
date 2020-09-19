@@ -1,7 +1,7 @@
 ## The Take-Off
 I reached the Mumbai international airport at 10:00 PM and scrambled my bag for the passport as the security was asking for tickets and identifications. I had only once traveled by plane before, from Pune to Goa and that is a 40 min plane ride. Later I would find out international flights are nothing like that caricature of an experience I had before.
 
-I was all equipped with the necessary documents that I was supposed to have. So I clear the airport gate security and enter the premises. The first thing I notice is the stark contrast in the landscape from Chembur and Vashi to that of the Airport. The airport's architecture is beautiful with giant ornate pillars holding the vast canopy of the roof which follows into the same design pattern of the pillars.
+I was all equipped with the necessary documents that I was supposed to have. So I cleared the airport gate security and enter the premises. The first thing I notice is the stark contrast in the landscape from Chembur and Vashi to that of the Airport. The airport's architecture is beautiful with giant ornate pillars holding the vast canopy of the roof which follows into the same design pattern of the pillars.
 
 ![alt text](https://swapnil-ingle.github.io/images/basel/mumbai-airport.jpg "Mumbai Airport")
 
@@ -9,9 +9,9 @@ This was the first time I was on an international airport terminal with no idea 
 
 ## The Arrival
 
-This was a 10-hour overnight flight from Mumbai to Zurich airport. I dozed off soon after the flight took off, being exhausted from the preparation, packing, and the high-traffic Mumbai commute. I was woken up by the Air Hostess the later morning for breakfast, the flight was 1 and a half hours to land. I opted for the non-vegetarian breakfast and was not too delighted with the experience. There was the packed breakfast before me and I had given a fork and spoon to have at it, and thus the struggle began.
+This was a 10-hour overnight flight from Mumbai to Zurich airport. Soon after the plane took flight, being exhausted from the preparation, packing, and the high-traffic Mumbai commute, I dozed off. I was woken up by the Air Hostess the later morning for breakfast, the flight was one and a half hours to land. I opted for the non-vegetarian breakfast and was not too delighted with the experience. There was the breakfast before me and I had given a spoon-and-fork to have at it, and thus began the struggle.
 
-You can count on a single hand the times I've had breakfast with a spoon-and-fork, this experience brings that total count to 1. Anyways, I had a long journey ahead and got the meal in my belly by the means available. I reached the Zurich airport by 6:30 AM (Local time) and the cabin crew greeted me off as I departed the vessel. 
+You can count on a single hand the times I've had breakfast with a spoon-and-fork, this experience brings that total count to one. Anyways, I had a long journey ahead and got the meal in my belly by the means available. I reached the Zurich airport by 6:30 AM (Local time) and the cabin crew greeted me off as I departed the vessel. 
 
 It was the start of the cold, the month of October. And it was indeed a chilly welcome for someone who shivers even in the Indian winters. It took me a day, or two, to adjust to the weather. Zurich airport is huge with the railway station in the same building. I was roaming around deciphering the notation symbols, as everything was in German, trying to get to the baggage claim.
 
@@ -25,7 +25,7 @@ I got the ticket to Basel and the train was leaving in 15 minutes. I hopped on. 
 
 ## Basel, Switzerland.
 
-First things first, it's 'Baa-zl' not 'Bae-sel'. Remember that if you don't want the locals to ask you _" You're going where!?"_. Yeah, it happened to a friend of mine.
+First things first, it's 'Baa-zl' not 'Bae-sel'. Remember that if you don't want the locals to ask you _" You're going where!?"_. That got pretty embarasing, pretty fast, it happened to a friend of mine.
 
 The train left Zurich station and, in a while, left the city. And soon after, I witnessed the lush green landscapes that Switzerland is known for. It was a mesmerizing sight. 
 It's 7:30'ish in the morning, you can feel the cold breeze, and contrasting the cold are the pale-golden sun rays that are permeating through the fog, it's autumn and the long pointy trees have become orange to reddish, the distant hilltops standing against the morning sun. It is a feeling that I will take with me, a picture I cannot forget.
