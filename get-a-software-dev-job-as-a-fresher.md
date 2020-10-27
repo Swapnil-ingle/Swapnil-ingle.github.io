@@ -22,11 +22,11 @@ Search for job openings on portals like Naukri, angel.co, and LinkedIn and see w
 
 Most importantly, **_you need to sell yourself_**. 
 
-If you have all the knowledge in the world but you're a hermit Google/Apple won't come seeking you. Learn how to sell yourself. Think like this, imagine that you're a third-person watching this communication happen between you and your potential employer. Observe what yourself will be telling the potential employer from a third-person view/perspective. 
+Even if you have all the knowledge in the world but you're a hermit and no one knows, Google/Apple won't come seeking you. Learn how to sell yourself. Think like this, imagine that you're a third-person watching this communication happen between you and your potential employer. Observe what yourself will be telling the potential employer from a third-person view/perspective. 
 
 Are you impressed by whatever this guy is showing/talking? If no, realize that you need work and get grinding, ultimately you'll get better with practice.
 
-Everyone wants solutions, everyone wants skills, think about how are you going to bring the solution to the table, and showcase your skillset.
+Everyone wants solutions, everyone wants skills, think about how are you going to bring any solutions to the table, and how to showcase your skillset.
 
 > Communication skills will matter more than your knowledge.
 
