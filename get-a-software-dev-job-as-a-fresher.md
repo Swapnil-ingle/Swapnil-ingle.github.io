@@ -59,7 +59,7 @@ Write good documentation for every Github project that you do, learn how markdow
 **If you would like to take something actionable away from this blog, take these points home:**
 
 1. Think about what potential benefits you'll bring to the company and write them down. 
-> (Everything looks good in your head, shit goes south when you try to articulate it on paper. It is where the magic happens, if you cannot get it on the paper - trust me - you don't have it in your head)
+	* (Everything looks good in our head, shit goes south when you try to articulate it on paper. It is where the magic happens, if you cannot get it on the paper - trust me - you don't have it in your head)
 2. Make interesting projects and create an awesome README page (*Use images and GIFS*).
 3. Write blogs for every learning activity that you do.
 4. Keep applying to companies and expect to face 100 rejections. Tell yourself that you won't be down until you face 100 rejections.
