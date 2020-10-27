@@ -2,7 +2,7 @@
 
 It is a known fact that many engineers struggle with getting their first job in the software community, unless you come from a very good college you'll probably struggle to catch your break.
 
-On the good side, more and more companies in India are realizing that you don't need a degree to be a software dev, you only need to be passionate about coding and computers to get a gid. 
+On the good side, more and more companies in India are realizing that you don't need a degree to be a software dev, you only need to be passionate about coding and computers to get a gig.
 
 So before going ahead, ask yourself _"Do I love coding? Do I love sitting, staring at a computer screen for 10-12 hours a day?"_ If your answer is no, I feel like this field is not for you.
 
