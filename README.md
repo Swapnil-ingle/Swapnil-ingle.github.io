@@ -29,6 +29,7 @@ Feel free to explore.
 22. [Project adoption at Basel - Switzerland](https://www.openspecimen.org/biobanking-lims-university-hospital-basel-switzerland/)
 23. [Building a desktop PC](https://swapnil-ingle.github.io/building_a_powerful_pc)
 24. [How to get a job as a software developer (with no experience) in India](https://swapnil-ingle.github.io/get-a-software-dev-job-as-a-fresher)
+25. [JSP Learning](https://swapnil-ingle.github.io/jsp_learnings)
 
 ### Notes:
 
