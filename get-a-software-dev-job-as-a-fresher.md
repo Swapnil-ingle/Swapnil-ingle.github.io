@@ -6,6 +6,8 @@ On the good side, more and more companies in India are realizing that you don't 
 
 So before going ahead, ask yourself _"Do I love coding? Do I love sitting, staring at a computer screen for 10-12 hours a day?"_ If your answer is no, I feel like this field is not for you.
 
+Start with why, _“Why do you want to become a software dev?”_, do you have an idea that you’d like to bring to life? Do you like creating new things? Do you like computer programs and would love to learn how it all works? Having a purpose of what you’re doing will drive you for the rest of your career, make sure you have a purpose - motivation will wear off but your drive will remain.
+
 ## No break for freshers
 
 > "Nobody wants to hire a fresher, everyone wants an experienced guy"
@@ -26,6 +28,8 @@ Even if you have all the knowledge in the world but you're a hermit and no one k
 
 Are you impressed by whatever this guy is showing/talking? If no, realize that you need work and get grinding, ultimately you'll get better with practice.
 
+You can also note down possible questions or scenarios with interviewers and rehearse, doing this activity daily will subconsciously help you gain more confidence.
+
 Everyone wants solutions, everyone wants skills, think about how are you going to bring any solutions to the table, and how to showcase your skillset.
 
 > Communication skills will matter more than your knowledge.
@@ -34,7 +38,7 @@ Everyone wants solutions, everyone wants skills, think about how are you going t
 
 Go for small-scale or startup companies, instead of aiming for the big MNCs at the start of your career.
 
-I don't know how many people (freshers) realize that working in a small-scale/startup company at the beginning of your career would add a lot of value compared to working in an MNC where the exposure to what kind of work you get is very capped, due to the very nature of these companies as they are very organized and have proper context separation between different roles and responsibilities. In contrast, in a startup, you'll get to do all things and everything.
+I don't know how many people (freshers) realize that working in a small-scale/startup company at the beginning of your career would add a lot of value compared to working in an MNC. With MNCs, the exposure to the kind of work you get is very limited. This is because they have huge projects and can only hand-over a minuscule part of it to each employee to maintain productivity. In contrast, in a start-up, you'll get to see the whole spectrum from the start to the end of a project. No doubt, you won't have the comfort of an MNC, you'll have to slog 10-12 hours every day, but you will learn a lot in a short span of time.
 
 So, work for a small-scale company to get that precious experience and learning.
 
@@ -44,11 +48,11 @@ Make a good portfolio, again _sell yourself_. Create a good GitHub profile and a
 
 > You're as good as your projects.
 
-Be a perpetual learner, you won't sustain in this industry if you cannot keep on learning new things. You'll have to redefine your skills every few years as a software dev, if you hate learning new things go for a government job instead - there's much stability there in terms of learning new things and redefining yourself all over. 
+Be a perpetual learner, you won’t sustain in this industry if you cannot keep on learning new things. You’ll have to redefine your skills every few years as a software dev, if you hate learning new things go for a government job instead - there’s much stability there in terms of staying in your comfort zone.
 
 Write your learnings in a blog and showcase them. 
 
-Whenever you are following a course or trying to learn some new skill, always try to document it - hopefully using G-Doc - but paper notes should work as well. This way you will have something concrete to show for the time you invested in your learning. Look at the greener side, if you didn't get anything else at least you got a good article from it :D.
+Whenever you are taking a course or trying to learn some new skill, always try to document it - preferably using G-Doc - but paper notes should work as well. This way you will have something concrete to show for the time you invested in your learning. Look at the greener side, if you didn’t get anything else at least you got a good article from it :D.
 
 Always try to learn/write documentation like you're going to show it or share it with a group of people whom you held in high regard.
 
