@@ -20,7 +20,7 @@ I'm trying to figure out how to make this book my go-to encyclopedia or FAQ when
 
 A befitting summary of such a book would be a compilation of all the wisdom that stayed with me.
 
-- "The good shit sticks" - Cal Fussman and Harry Cruise
+- "The good shit sticks" - Cal Fussman and Harry Crews
     - Cal's notes and manuals were destroyed by mold, and rather than panicking this is the advice he remembered from Harry Crews - a novelist/author - who's always under the influence of substances and keeps no journal but can anyway write superb material.
 - "You'll never be the best-looking person in the room, you'll never be the smartest person in the room, the most educated or the most well-versed, you can never compete on those levels but what you CAN, always, compete on - the true egalitarian aspect to success - is hard work. You can always work harder than the next guy." - Casey Neistat
 - "If you're really passionate about an idea or a project, tell 10 people about it - who you think care about you and have your best interest in mind - if they don't tell other people, realize your idea is not good enough" - Seth Godin
