@@ -2,15 +2,15 @@
 
 # Tools of Titans
 
-Tools of Titans is not a book in a conventional sense, it can be considered as an "advice encyclopedia". Tools of Titans is a compilation of experiences of highly accomplished people such as millionaires, worth class performers, top athletes, etc. Hence, I cannot give a condensed "Lessons Summary" from the book, I don't think the book is meant to be read that way.
+Tools of Titans, by Tim Ferris, is not a book in a conventional sense, it can be considered as an "advice encyclopedia". It is a compilation of experiences of highly accomplished people such as millionaires, worth class performers, top athletes, etc. Hence, I cannot give a condensed "Lessons Summary" from the book, I don't think the book is meant to be read that way.
 
 I started reading very late in my life, I'm 24 at the time of this writing and have only been reading for the past year or so. I only have an interest in non-fiction books and the reason why I started reading was to gain experience from other people's lives. 
 
 The book caught my interest as it was hundreds of life lessons under a single cover. Consider how much you'd learn about a person's life, habits, routines, and advice from his biography, and now imagine the worlds top people and add every person's lesson as a single chapter.
 
-When I am reading any biography about an individual, I get so entangled in the reading - with the norms and biases of that person - that whatever wisdom they give makes sense, because I feel like a part of the book, a part of the character. On a very contrasting experience, the "condensed-advice" form factor of Tools of Titans made me zoom out from a single tree to have a look at the forest.  
+When I am reading any biography about an individual, I get so entangled in the reading - with the norms and biases of that person - that whatever wisdom they put out makes sense, because I feel like a part of the book, a part of the character. On a very contrasting experience, the "condensed-advice" form factor of Tools of Titans made me zoom out from a single tree to have a look at the forest.  
 
-Having read so many opinions made me realize how different things work for different people trying to excel in the same field. For example; one advice states that "It's a 'No' if it is not a 'Hell Yeah'" paraphrasing, you should not say yes to anything if it doesn't excite you to your bones, while another advice told, "Say yes to everything, you only need one big win, maximize your chances". Both advice come from very successful people, the thing I learned is what worked for one person would not necessarily work for you - carve your own path, to hell with what others would say.
+Having read so many opinions made me realize how different things work for different people trying to excel in the same field. For example; one advice states that, _"It's a 'No' if it is not a 'Hell Yeah'"_, paraphrasing, you should not say yes to anything if it doesn't excite you to your bones, while another advice told, _"Say yes to everything, you only need one big win, maximize your chances"_. Both advice come from highly successful people, the thing I learned is what worked for one person would not necessarily work for you - carve your own path, to hell with what others would say.
 
 Another great thing about the "condensed-advice" form factor is that I could distill the common habits and routines all these Titans have and try to make it a part of my life.
 
