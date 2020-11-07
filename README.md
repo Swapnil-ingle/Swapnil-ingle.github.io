@@ -29,10 +29,9 @@ Feel free to explore.
 22. [Project adoption at Basel - Switzerland](https://www.openspecimen.org/biobanking-lims-university-hospital-basel-switzerland/)
 23. [Building a desktop PC](https://swapnil-ingle.github.io/building_a_powerful_pc)
 24. [How to get a job as a software developer (with no experience) in India](https://swapnil-ingle.github.io/get-a-software-dev-job-as-a-fresher)
-25. [JSP Learning](https://swapnil-ingle.github.io/jsp_learnings)
-26. [Tools of Titans - Summary](https://swapnil-ingle.github.io/tools-of-titans)
+25. [Tools of Titans - Summary](https://swapnil-ingle.github.io/tools-of-titans)
 
-### Notes:
+### Learning Notes:
 
 These are my notes on topics I've learned in the past and am currently learning.
 
@@ -41,7 +40,8 @@ These are my notes on topics I've learned in the past and am currently learning.
 3. [Database Management Systems](https://docs.google.com/document/d/1FwTk1y2N63bAp5K7paAQJ8Mqt4qQUOFjbRFhZ_PxhT0/edit#heading=h.aczyuw2yex2w)
 4. [Testing in Java and TestNG Framework](https://docs.google.com/document/d/1u5i3M7nlwAVA2rY8_0Wik69mfgAK7WtxxlGcxPcPpr4/edit)
 5. [Subnetting in Linux](https://docs.google.com/document/d/1u5i3M7nlwAVA2rY8_0Wik69mfgAK7WtxxlGcxPcPpr4/edit)
-6. [JavaScript Learning Notes - For future self-reference](https://swapnil-ingle.github.io/js_learning_notes)
+6. [JSP Learning Notes](https://swapnil-ingle.github.io/jsp_learnings)
+7. [JavaScript Learning Notes - For future self-reference](https://swapnil-ingle.github.io/js_learning_notes)
 
 Comments, feedbacks and criticism are always welcome!
 ## **Email:** dr.swapnilingle@gmail.com
