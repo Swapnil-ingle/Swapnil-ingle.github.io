@@ -44,4 +44,4 @@ These are my notes on topics I've learned in the past and am currently learning.
 7. [JavaScript Learning Notes - For future self-reference](https://swapnil-ingle.github.io/js_learning_notes)
 
 Comments, feedbacks and criticism are always welcome!
-## **Email:** dr.swapnilingle@gmail.com
+## **Email:** swapnilingle.dev@gmail.com
