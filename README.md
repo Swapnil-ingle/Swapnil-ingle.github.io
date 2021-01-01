@@ -30,6 +30,7 @@ Feel free to explore.
 23. [Building a desktop PC](https://swapnil-ingle.github.io/building_a_powerful_pc)
 24. [How to get a job as a software developer (with no experience) in India](https://swapnil-ingle.github.io/get-a-software-dev-job-as-a-fresher)
 25. [Tools of Titans - Summary](https://swapnil-ingle.github.io/tools-of-titans)
+26. [JS Projects](https://swapnil-ingle.github.io/js_projects)
 
 ### Learning Notes:
 
