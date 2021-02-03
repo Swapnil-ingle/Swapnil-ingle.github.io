@@ -42,7 +42,8 @@ These are my notes on topics I've learned in the past and am currently learning.
 4. [Testing in Java and TestNG Framework](https://docs.google.com/document/d/1u5i3M7nlwAVA2rY8_0Wik69mfgAK7WtxxlGcxPcPpr4/edit)
 5. [Subnetting in Linux](https://docs.google.com/document/d/1u5i3M7nlwAVA2rY8_0Wik69mfgAK7WtxxlGcxPcPpr4/edit)
 6. [JSP Learning Notes](https://swapnil-ingle.github.io/jsp_learnings)
-7. [JavaScript Learning Notes - For future self-reference](https://swapnil-ingle.github.io/js_learning_notes)
+7. [JavaScript Learning Notes](https://swapnil-ingle.github.io/js_learning_notes)
+8. [React Notes](https://github.com/Swapnil-ingle/react-projects/tree/main/basic-projects/tutorial-course)
 
 Comments, feedbacks and criticism are always welcome!
 ## **Email:** swapnilingle.dev@gmail.com
