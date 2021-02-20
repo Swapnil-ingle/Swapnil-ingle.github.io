@@ -31,6 +31,7 @@ Feel free to explore.
 24. [How to get a job as a software developer (with no experience) in India](https://swapnil-ingle.github.io/get-a-software-dev-job-as-a-fresher)
 25. [Tools of Titans - Summary](https://swapnil-ingle.github.io/tools-of-titans)
 26. [JS Projects](https://swapnil-ingle.github.io/js_projects)
+27. [Weird Dream](https://swapnil-ingle.github.io/weird-dream)
 
 ### Learning Notes:
 
