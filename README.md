@@ -32,6 +32,10 @@ Feel free to explore.
 25. [Tools of Titans - Summary](https://swapnil-ingle.github.io/tools-of-titans)
 26. [JS Projects](https://swapnil-ingle.github.io/js_projects)
 27. [Weird Dream](https://swapnil-ingle.github.io/weird-dream)
+28. [Show Your Work - Summary](https://waiting-yew-ca0.notion.site/Show-Your-Work-ec41323f38e34da5a5c663608dce28d3)
+29. [Live-Up To Your Fitness Potential](https://waiting-yew-ca0.notion.site/Live-up-to-your-fitness-potential-37247a89ea4a450e84531158ebf4699c)
+30. [Different DB Models And Classification: Notes](https://waiting-yew-ca0.notion.site/Db-models-85d6b708bd7946e59b75f9d22b59baa9)
+31. [Graph DB Classification: Notes](https://www.notion.so/Graph-Db-classification-1820ab0255b847b8a8483bd94e986bc6)
 
 ### Learning Notes:
 
